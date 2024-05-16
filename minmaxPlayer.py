@@ -9,7 +9,7 @@ import time
 import Goban 
 from random import choice
 from playerInterface import *
-import alphabetamethod
+import minmaxmethod
 
 class myPlayer(PlayerInterface):
     ''' Example of a random player for the go. The only tricky part is to be able to handle
@@ -23,16 +23,15 @@ class myPlayer(PlayerInterface):
         self._mycolor = None
 
     def getPlayerName(self):
-        return "Bruno Superette (alpha beta player)"
+        return "George Paté (random player)"
 
     def getPlayerMove(self):
         if self._board.is_game_over():
             print("Referee told me to play but the game is over!")
             return "PASS" 
         
-        move = alphabetamethod.minmax(self._board, self._mycolor, 2)
+        move = minmaxmethod.minmax(self._board, self._mycolor, self._board.flip(self._mycolor) )
         self._board.push(move)
-
 
         # New here: allows to consider internal representations of moves
         print("I am playing ", self._board.move_to_str(move))
