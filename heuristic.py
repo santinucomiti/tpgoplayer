@@ -1,5 +1,6 @@
 import torch.nn as nn
 import torch.nn.functional as F
+import Goban
 
 import torch
 import numpy as np
@@ -68,3 +69,23 @@ def flip_data(boardMatrix):
     toret = np.flipud(toret)
     toret = np.moveaxis(toret, -1, 0)
     return toret
+
+def heuristic(color_ami,board):
+        # Recréer l'instance du modèle
+        loaded_model = WithConv()
+
+        # Charger le dictionnaire d'état
+        loaded_model.load_state_dict(torch.load('./model.pth'))
+
+        boardMatrix = goban_to_matrix(board)
+
+        if color_ami != Goban.Board._BLACK:
+            boardMatrix = flip_data(boardMatrix).copy()
+        
+        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
+        
+        prediction = loaded_model.predict(input)
+
+        p = prediction.cpu().detach().numpy()
+
+        return p[0][0]*100
