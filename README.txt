@@ -1,3 +1,6 @@
+COMITI Santinu
+MORENO-CARPIO Kenzo
+
 Goban.py 
 ---------
 
