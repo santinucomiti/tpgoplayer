@@ -1,6 +1,7 @@
 import torch.nn as nn
 import torch.nn.functional as F
 import Goban
+
 import torch
 import numpy as np
 
@@ -62,30 +63,27 @@ def goban_to_matrix(board):
                 
     return matrix
 
-def flip_data(boardMatrix):
-    toret = boardMatrix.copy()
-    toret = np.moveaxis(toret, 0, -1)
-    toret = np.flipud(toret)
-    toret = np.moveaxis(toret, -1, 0)
-    return toret
+def invert_data(boardMatrix):
+    boardInversedColors = boardMatrix.copy()
+    boardInversedColors[[0,1]] = boardMatrix[[1,0]]
+    return boardInversedColors
 
-def heuristic(board, color_ami):
-    # Recréer l'instance du modèle
-    loaded_model = WithConv()
+def heuristic(color_ami,board):
+        # Recréer l'instance du modèle
+        loaded_model = WithConv()
 
-    # Charger le dictionnaire d'état
-    loaded_model.load_state_dict(torch.load('./model.pth'))
+        # Charger le dictionnaire d'état
+        loaded_model.load_state_dict(torch.load('./model.pth'))
 
-    boardMatrix = goban_to_matrix(board)
+        boardMatrix = goban_to_matrix(board)
 
-    if color_ami != Goban.Board._BLACK:
-        boardMatrix = flip_data(boardMatrix).copy()
+        if color_ami != Goban.Board._BLACK:
+            boardMatrix = invert_data(boardMatrix).copy()
+        
+        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
+        
+        prediction = loaded_model.predict(input)
 
-    
-    input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
-    
-    prediction = loaded_model.predict(input)
+        p = prediction.cpu().detach().numpy()
 
-    p = prediction.cpu().detach().numpy()
-
-    return p[0][0]*100
+        return p[0][0]*100
