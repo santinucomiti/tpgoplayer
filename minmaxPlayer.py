@@ -9,9 +9,7 @@ import time
 import Goban 
 from random import choice
 from playerInterface import *
-import torch
-import heuristic
-import alphabetamethod
+import minmaxmethod
 
 class myPlayer(PlayerInterface):
     ''' Example of a random player for the go. The only tricky part is to be able to handle
@@ -19,45 +17,21 @@ class myPlayer(PlayerInterface):
     to translate them to the GO-move strings "A1", ..., "J8", "PASS". Easy!
 
     '''
- 
 
     def __init__(self):
         self._board = Goban.Board()
         self._mycolor = None
 
-    def __heuristic(self,color_ami,board):
-        # Recréer l'instance du modèle
-        loaded_model = heuristic.WithConv()
-
-        # Charger le dictionnaire d'état
-        loaded_model.load_state_dict(torch.load('./model.pth'))
-
-        boardMatrix = heuristic.goban_to_matrix(board)
-
-        if color_ami != Goban.Board._BLACK:
-            boardMatrix = heuristic.flip_data(boardMatrix).copy()
-
-        
-        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
-        
-        prediction = loaded_model.predict(input)
-
-        p = prediction.cpu().detach().numpy()
-
-        return p[0][0]*100
-# 
     def getPlayerName(self):
-        return "Random Player"
+        return "George Paté (random player)"
 
     def getPlayerMove(self):
         if self._board.is_game_over():
             print("Referee told me to play but the game is over!")
             return "PASS" 
         
-        moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
-        move = choice(moves) 
+        move = minmaxmethod.minmax(self._board, self._mycolor, self._board.flip(self._mycolor) )
         self._board.push(move)
-
 
         # New here: allows to consider internal representations of moves
         print("I am playing ", self._board.move_to_str(move))
