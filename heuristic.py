@@ -63,12 +63,10 @@ def goban_to_matrix(board):
                 
     return matrix
 
-def flip_data(boardMatrix):
-    toret = boardMatrix.copy()
-    toret = np.moveaxis(toret, 0, -1)
-    toret = np.flipud(toret)
-    toret = np.moveaxis(toret, -1, 0)
-    return toret
+def invert_data(boardMatrix):
+    boardInversedColors = boardMatrix.copy()
+    boardInversedColors[[0,1]] = boardMatrix[[1,0]]
+    return boardInversedColors
 
 def heuristic(color_ami,board):
         # Recréer l'instance du modèle
@@ -80,7 +78,7 @@ def heuristic(color_ami,board):
         boardMatrix = goban_to_matrix(board)
 
         if color_ami != Goban.Board._BLACK:
-            boardMatrix = flip_data(boardMatrix).copy()
+            boardMatrix = invert_data(boardMatrix).copy()
         
         input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
         
