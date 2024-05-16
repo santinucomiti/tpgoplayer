@@ -28,6 +28,7 @@ class myPlayer(PlayerInterface):
         if self._board.is_game_over():
             print("Referee told me to play but the game is over!")
             return "PASS" 
+        
         moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
         move = choice(moves) 
         self._board.push(move)
