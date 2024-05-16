@@ -25,26 +25,26 @@ class myPlayer(PlayerInterface):
         self._board = Goban.Board()
         self._mycolor = None
 
-    def __heuristic(self,color_ami,board):
-        # Recréer l'instance du modèle
-        loaded_model = heuristic.WithConv()
-
-        # Charger le dictionnaire d'état
-        loaded_model.load_state_dict(torch.load('./model.pth'))
-
-        boardMatrix = heuristic.goban_to_matrix(board)
-
-        if color_ami != Goban.Board._BLACK:
-            boardMatrix = heuristic.flip_data(boardMatrix).copy()
-
-        
-        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
-        
-        prediction = loaded_model.predict(input)
-
-        p = prediction.cpu().detach().numpy()
-
-        return p[0][0]*100
+#    def __heuristic(self,color_ami,board):
+#        # Recréer l'instance du modèle
+#        loaded_model = heuristic.WithConv()
+#
+#        # Charger le dictionnaire d'état
+#        loaded_model.load_state_dict(torch.load('./model.pth'))
+#
+#        boardMatrix = heuristic.goban_to_matrix(board)
+#
+#        if color_ami != Goban.Board._BLACK:
+#            boardMatrix = heuristic.flip_data(boardMatrix).copy()
+#
+#        
+#        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
+#        
+#        prediction = loaded_model.predict(input)
+#
+#        p = prediction.cpu().detach().numpy()
+#
+#        return p[0][0]*100
 # 
     def getPlayerName(self):
         return "Random Player"

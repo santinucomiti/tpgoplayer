@@ -4,12 +4,12 @@ import heuristic
 
 
 
-def alphabetaLeaf(board, IA, joueur):
-    return heuristic.heuristic(board,IA, joueur)
+def alphabetaLeaf(board, IA):
+    return heuristic.heuristic(board,IA)
 
 def alphabetaEnemy(board, IA, max_value, min_value,depth):
     if board.is_game_over() or depth == 0: 
-        return alphabetaLeaf(board, IA,-1)
+        return alphabetaLeaf(board, IA)
     else : 
         moves = [m for m in board.generate_legal_moves()]
         grades = []
@@ -30,7 +30,7 @@ def alphabetaEnemy(board, IA, max_value, min_value,depth):
 
 def alphabetaMe(board, IA, max_value, min_value,depth):
     if board.is_game_over() or depth == 0: 
-        return alphabetaLeaf(board, IA,1)
+        return alphabetaLeaf(board, IA)
     else:
         moves = [m for m in board.generate_legal_moves()]
         grades = []
