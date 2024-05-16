@@ -5,7 +5,7 @@ import heuristic
 
 
 def alphabetaLeaf(board, IA):
-    return heuristic.heuristic(board,IA)
+    return heuristic.MonteCarlo(board,IA)
 
 def alphabetaEnemy(board, IA, max_value, min_value,depth):
     if board.is_game_over() or depth == 0: 
@@ -53,6 +53,7 @@ def alphabeta(board, IA, depth):
     if board.is_game_over() or depth == 0: 
         return alphabetaLeaf(board, IA)
     else:
+        print("yooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo")
         moves = [m for m in board.generate_legal_moves()]
         max_value = - math.inf
         grades = []
@@ -64,6 +65,7 @@ def alphabeta(board, IA, depth):
                 max_value = grade
                 bestmove = move
             board.pop()
+        print("ici y a max_value et grade")
         print(max_value, grades)
 
         return bestmove

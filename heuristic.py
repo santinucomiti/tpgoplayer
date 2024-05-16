@@ -1,9 +1,9 @@
 import torch.nn as nn
 import torch.nn.functional as F
 import Goban
-
 import torch
 import numpy as np
+from random import choice
 
 def name_to_coord(s):
     assert s != "PASS"
@@ -63,27 +63,60 @@ def goban_to_matrix(board):
                 
     return matrix
 
+def flip_data(boardMatrix):
+    toret = boardMatrix.copy()
+    toret = np.moveaxis(toret, 0, -1)
+    toret = np.flipud(toret)
+    toret = np.moveaxis(toret, -1, 0)
+    return toret
+
 def invert_data(boardMatrix):
     boardInversedColors = boardMatrix.copy()
     boardInversedColors[[0,1]] = boardMatrix[[1,0]]
     return boardInversedColors
 
-def heuristic(color_ami,board):
-        # Recréer l'instance du modèle
-        loaded_model = WithConv()
 
-        # Charger le dictionnaire d'état
-        loaded_model.load_state_dict(torch.load('./model.pth'))
+def MonteCarlo(board, color_ami):
+    print("monte carlo")
+    if color_ami == Goban.Board._WHITE : a = 1
+    else : a = -1
+    color_ennemi = Goban.Board.flip(color_ami)
+    winrate = 0
+    for k in range(10) :
+        n = 0
+        while not board.is_game_over():
+            moves = board.legal_moves() # Dont use weak_legal_moves() here!
+            move = choice(moves) 
+            board.push(move)
+            n+=1
+        result = board.result()
+        if result == "1-0": winrate += 1*a
+        elif result == "0-1": winrate += -1*a
+        for k in range(n): board.pop()
+    print(winrate)
+    return winrate/10
 
-        boardMatrix = goban_to_matrix(board)
+    
 
-        if color_ami != Goban.Board._BLACK:
-            boardMatrix = invert_data(boardMatrix).copy()
-        
-        input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
-        
-        prediction = loaded_model.predict(input)
 
-        p = prediction.cpu().detach().numpy()
+def heuristic(board,color_ami):
+    # Recréer l'instance du modèle
+    loaded_model = WithConv()
 
-        return p[0][0]*100
+    # Charger le dictionnaire d'état
+    loaded_model.load_state_dict(torch.load('./model.pth'))
+
+    boardMatrix = goban_to_matrix(board)
+
+    if color_ami != Goban.Board._BLACK:
+        #boardMatrix = flip_data(boardMatrix).copy()
+        boardMatrix = invert_data(boardMatrix).copy()
+
+    
+    input = torch.tensor(boardMatrix, dtype=torch.float32).unsqueeze(0)
+    
+    prediction = loaded_model.predict(input)
+
+    p = prediction.cpu().detach().numpy()
+
+    return p[0][0]*100

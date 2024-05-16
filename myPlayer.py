@@ -9,9 +9,10 @@ import time
 import Goban 
 from random import choice
 from playerInterface import *
+import alphabetamethod
 import torch
 import heuristic
-import alphabetamethod
+import opening_move
 
 class myPlayer(PlayerInterface):
     ''' Example of a random player for the go. The only tricky part is to be able to handle
@@ -24,7 +25,8 @@ class myPlayer(PlayerInterface):
     def __init__(self):
         self._board = Goban.Board()
         self._mycolor = None
-
+        self._turn = 0
+#
 #    def __heuristic(self,color_ami,board):
 #        # Recréer l'instance du modèle
 #        loaded_model = heuristic.WithConv()
@@ -47,16 +49,23 @@ class myPlayer(PlayerInterface):
 #        return p[0][0]*100
 # 
     def getPlayerName(self):
-        return "Random Player"
+        return "Bruno Superette (alpha beta player)"
 
     def getPlayerMove(self):
+        self._turn +=1
         if self._board.is_game_over():
             print("Referee told me to play but the game is over!")
             return "PASS" 
         
-        moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
-        move = choice(moves) 
-        self._board.push(move)
+        if self._turn <= 5 : 
+            moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
+            move = choice(moves) 
+            self._board.push(move)
+        
+        
+        else :
+            move = alphabetamethod.alphabeta(self._board, self._mycolor, 1)
+            self._board.push(move)
 
 
         # New here: allows to consider internal representations of moves
