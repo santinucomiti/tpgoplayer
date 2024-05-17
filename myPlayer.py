@@ -14,6 +14,16 @@ import torch
 import heuristic
 # import opening_move
 
+# Utils
+PLACES_HEAT_INVERSE = {
+            4: [19, 20, 26, 27, 28, 29, 34, 35, 36, 37, 43, 44],
+            3: [11, 12, 18, 21, 25, 30, 33, 38, 42, 45, 51, 52],
+            2.5: [1, 6, 8, 15, 48, 55, 57, 62],
+            2: [3, 4, 10, 13, 17, 22, 24, 31, 32, 39, 41, 46, 50, 53, 59, 60],
+            1: [2, 5, 9, 14, 16, 23, 40, 47, 49, 54, 58, 61],
+            0: [0, 7, 56, 63]
+} 
+
 class myPlayer(PlayerInterface):
     ''' Example of a random player for the go. The only tricky part is to be able to handle
     the internal representation of moves given by legal_moves() and used by push() and 
@@ -23,9 +33,7 @@ class myPlayer(PlayerInterface):
     
     _FUSEKI_DEPTH = 10
     _BEST_OPENING_MOVE = [18, 19, 20, 21, 26, 34, 42, 43, 44, 45, 29, 37]
-    # _PLACES = {
-    #     10: 
-    # } 
+    _PLACES_HEAT = {index: heat_level for heat_level, indices in PLACES_HEAT_INVERSE.items() for index in indices}
 
     ##########################################################
     ##########################################################
@@ -74,6 +82,8 @@ class myPlayer(PlayerInterface):
 
         self._board.push(move)
 
+        myPlayer.heatMap(self._board, self._mycolor)
+
         # New here: allows to consider internal representations of moves
         print("I am playing ", self._board.move_to_str(move))
         print("My current board :")
@@ -98,6 +108,26 @@ class myPlayer(PlayerInterface):
 
     ''' Internal functions only'''
 
+    ###################### HEATMAP ################### 
+
+    @staticmethod
+    def heatMap(board, color):
+        heat_black = 0
+        heat_white = 0
+
+        for i in range(len(board._board)):
+            if (board._board[i] == board._BLACK):
+                heat_black += myPlayer._PLACES_HEAT[i] 
+            if (board._board[i] == board._WHITE):
+                heat_white += myPlayer._PLACES_HEAT[i] 
+        
+        heat_tot = heat_black - heat_white if color == board._BLACK else heat_white - heat_black
+
+        return heat_tot
+        
+        
+    ###################### OPENING ################### 
+
     def _getOpeningMove(self):
 
         moves = self._board.legal_moves()
@@ -108,6 +138,5 @@ class myPlayer(PlayerInterface):
                 best_moves.append(best_move) 
 
         return choice(best_moves) if best_moves else choice(moves)
-
 
 
