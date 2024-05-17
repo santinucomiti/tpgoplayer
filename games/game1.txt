@@ -1,0 +1,5715 @@
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+Next player: BLACK
+0 blacks and 0 whites on board
+
+Before move 1
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C4
+[Player 0] My current board :
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 1 blacks and 0 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C4
+Opponent played  C4 i.e.  C4
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+Next player: WHITE
+1 blacks and 0 whites on board
+
+Before move 2
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F6
+[Player 1] My current board :
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . X . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 1 blacks and 1 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F6
+Opponent played  F6
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . . . . . . . 
+. . . . . O . . 
+. . . . . . . . 
+. . . . . . . . 
+Next player: BLACK
+1 blacks and 1 whites on board
+
+Before move 3
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C5
+[Player 0] My current board :
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . . . . O . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 2 blacks and 1 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C5
+Opponent played  C5 i.e.  C5
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . . . . 
+. . . . . O . . 
+. . . . . . . . 
+. . . . . . . . 
+Next player: WHITE
+2 blacks and 1 whites on board
+
+Before move 4
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'H7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  H7
+[Player 1] My current board :
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . X . . . . . 
+[Player 1] . . X . . . . . 
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 2 blacks and 2 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H7
+Opponent played  H7
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . . . . 
+. . . . . O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+2 blacks and 2 whites on board
+
+Before move 5
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'F5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F5
+[Player 0] My current board :
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . X . . X . . 
+[Player 0] . . . . . O . . 
+[Player 0] . . . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 3 blacks and 2 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F5
+Opponent played  F5 i.e.  F5
+Referee Board:
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . X . . 
+. . . . . O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+3 blacks and 2 whites on board
+
+Before move 6
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  D1
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . X . . . . . 
+[Player 1] . . X . . X . . 
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 3 blacks and 3 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D1
+Opponent played  D1
+Referee Board:
+. . . O . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . X . . 
+. . . . . O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+3 blacks and 3 whites on board
+
+Before move 7
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'E6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  E6
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . . . . . . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . X . . X . . 
+[Player 0] . . . . X O . . 
+[Player 0] . . . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 4 blacks and 3 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E6
+Opponent played  E6 i.e.  E6
+Referee Board:
+. . . O . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . X . . 
+. . . . X O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+4 blacks and 3 whites on board
+
+Before move 8
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  A2
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . . . . . . . 
+[Player 1] . . X . . . . . 
+[Player 1] . . X . . X . . 
+[Player 1] . . . . X O . . 
+[Player 1] . . . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 4 blacks and 4 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A2
+Opponent played  A2
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . . . . . . . 
+. . X . . . . . 
+. . X . . X . . 
+. . . . X O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+4 blacks and 4 whites on board
+
+Before move 9
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F3
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . . . . X . . 
+[Player 0] . . X . . . . . 
+[Player 0] . . X . . X . . 
+[Player 0] . . . . X O . . 
+[Player 0] . . . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 5 blacks and 4 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F3
+Opponent played  F3 i.e.  F3
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . . . . X . . 
+. . X . . . . . 
+. . X . . X . . 
+. . . . X O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+5 blacks and 4 whites on board
+
+Before move 10
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'B5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  B5
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . . . . X . . 
+[Player 1] . . X . . . . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . . . X O . . 
+[Player 1] . . . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 5 blacks and 5 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B5
+Opponent played  B5
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . . . . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . . . X O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+5 blacks and 5 whites on board
+
+Before move 11
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'C6', 'D6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C6
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . . . . X . . 
+[Player 0] . . X . . . . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X . X O . . 
+[Player 0] . . . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 6 blacks and 5 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C6
+Opponent played  C6 i.e.  C6
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . . . . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . X . X O . . 
+. . . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+6 blacks and 5 whites on board
+
+Before move 12
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'B7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  B7
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . . . . X . . 
+[Player 1] . . X . . . . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X . X O . . 
+[Player 1] . O . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 6 blacks and 6 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B7
+Opponent played  B7
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . . . . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+6 blacks and 6 whites on board
+
+Before move 13
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'C3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C3
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X . . X . . 
+[Player 0] . . X . . . . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X . X O . . 
+[Player 0] . O . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 7 blacks and 6 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C3
+Opponent played  C3 i.e.  C3
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X . . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+7 blacks and 6 whites on board
+
+Before move 14
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  PASS
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X . . X . . 
+[Player 1] . . X . . . . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X . X O . . 
+[Player 1] . O . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 7 blacks and 6 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: PASS
+Opponent played  PASS
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X . . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+7 blacks and 6 whites on board
+
+Before move 15
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'D3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  D3
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X . X . . 
+[Player 0] . . X . . . . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X . X O . . 
+[Player 0] . O . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 8 blacks and 6 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D3
+Opponent played  D3 i.e.  D3
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X . X . . 
+. . X . . . . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+8 blacks and 6 whites on board
+
+Before move 16
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F4
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X X . X . . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X . X O . . 
+[Player 1] . O . . . . . O 
+[Player 1] . . . . . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 8 blacks and 7 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F4
+Opponent played  F4
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X . X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: BLACK
+8 blacks and 7 whites on board
+
+Before move 17
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'E3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  E3
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X X X . . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X . X O . . 
+[Player 0] . O . . . . . O 
+[Player 0] . . . . . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 9 blacks and 7 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E3
+Opponent played  E3 i.e.  E3
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . . . . . . 
+Next player: WHITE
+9 blacks and 7 whites on board
+
+Before move 18
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'D8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  D8
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X X X X . . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X . X O . . 
+[Player 1] . O . . . . . O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 9 blacks and 8 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D8
+Opponent played  D8
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X . X O . . 
+. O . . . . . O 
+. . . O . . . . 
+Next player: BLACK
+9 blacks and 8 whites on board
+
+Before move 19
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  D6
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X X X . . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X O . . 
+[Player 0] . O . . . . . O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 10 blacks and 8 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D6
+Opponent played  D6 i.e.  D6
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O . . . . . O 
+. . . O . . . . 
+Next player: WHITE
+10 blacks and 8 whites on board
+
+Before move 20
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'C7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C7
+[Player 1] My current board :
+[Player 1] . . . O . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X X X X . . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X O . . 
+[Player 1] . O O . . . . O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 10 blacks and 9 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C7
+Opponent played  C7
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O O . . . . O 
+. . . O . . . . 
+Next player: BLACK
+10 blacks and 9 whites on board
+
+Before move 21
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'D7', 'E7', 'F7', 'G7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G7
+[Player 0] My current board :
+[Player 0] . . . O . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X X X . . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X O . . 
+[Player 0] . O O . . . X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 11 blacks and 9 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G7
+Opponent played  G7 i.e.  G7
+Referee Board:
+. . . O . . . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: WHITE
+11 blacks and 9 whites on board
+
+Before move 22
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'F1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F1
+[Player 1] My current board :
+[Player 1] . . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X X X X . . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X O . . 
+[Player 1] . O O . . . X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 11 blacks and 10 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F1
+Opponent played  F1
+Referee Board:
+. . . O . O . . 
+O . . . . . . . 
+. . X X X X . . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: BLACK
+11 blacks and 10 whites on board
+
+Before move 23
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'G3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G3
+[Player 0] My current board :
+[Player 0] . . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X X X X . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X O . . 
+[Player 0] . O O . . . X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 12 blacks and 10 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G3
+Opponent played  G3 i.e.  G3
+Referee Board:
+. . . O . O . . 
+O . . . . . . . 
+. . X X X X X . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: WHITE
+12 blacks and 10 whites on board
+
+Before move 24
+Legal Moves:  ['A1', 'B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  A1
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] . . X X X X X . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X O . . 
+[Player 1] . O O . . . X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 12 blacks and 11 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A1
+Opponent played  A1
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+. . X X X X X . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O . . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: BLACK
+12 blacks and 11 whites on board
+
+Before move 25
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'G6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G6
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] . . X X X X X . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X O X . 
+[Player 0] . O O . . . X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 13 blacks and 11 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G6
+Opponent played  G6 i.e.  G6
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+. . X X X X X . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O X . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: WHITE
+13 blacks and 11 whites on board
+
+Before move 26
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'A3', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  A3
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . X X X X X . 
+[Player 1] . . X . . O . . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X O X . 
+[Player 1] . O O . . . X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 13 blacks and 12 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A3
+Opponent played  A3
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O . X X X X X . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O X . 
+. O O . . . X O 
+. . . O . . . . 
+Next player: BLACK
+13 blacks and 12 whites on board
+
+Before move 27
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'H6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  H6
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . X X X X X . 
+[Player 0] . . X . . O . . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X O X X 
+[Player 0] . O O . . . X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 14 blacks and 12 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H6
+Opponent played  H6 i.e.  H6
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O . X X X X X . 
+. . X . . O . . 
+. O X . . X . . 
+. . X X X O X X 
+. O O . . . X O 
+. . . O . . . . 
+Next player: WHITE
+14 blacks and 12 whites on board
+
+Before move 28
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'G4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G4
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . X X X X X . 
+[Player 1] . . X . . O O . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X O X X 
+[Player 1] . O O . . . X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 14 blacks and 13 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G4
+Opponent played  G4
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O . X X X X X . 
+. . X . . O O . 
+. O X . . X . . 
+. . X X X O X X 
+. O O . . . X O 
+. . . O . . . . 
+Next player: BLACK
+14 blacks and 13 whites on board
+
+Before move 29
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'F7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F7
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . X X X X X . 
+[Player 0] . . X . . O O . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X . X X 
+[Player 0] . O O . . X X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 15 blacks and 12 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F7
+Opponent played  F7 i.e.  F7
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O . X X X X X . 
+. . X . . O O . 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O . . . . 
+Next player: WHITE
+15 blacks and 12 whites on board
+
+Before move 30
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'H3', 'A4', 'B4', 'D4', 'E4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  B3
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] O O X X X X X . 
+[Player 1] . . X . . O O . 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X . X X 
+[Player 1] . O O . . X X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 15 blacks and 13 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B3
+Opponent played  B3
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O O X X X X X . 
+. . X . . O O . 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O . . . . 
+Next player: BLACK
+15 blacks and 13 whites on board
+
+Before move 31
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'H3', 'A4', 'B4', 'D4', 'E4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  B4
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] O O X X X X X . 
+[Player 0] . X X . . O O . 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X . X X 
+[Player 0] . O O . . X X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 16 blacks and 13 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B4
+Opponent played  B4 i.e.  B4
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O O X X X X X . 
+. X X . . O O . 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O . . . . 
+Next player: WHITE
+16 blacks and 13 whites on board
+
+Before move 32
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'H3', 'A4', 'D4', 'E4', 'H4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  H4
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] O O X X X X X . 
+[Player 1] . X X . . O O O 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X . X X 
+[Player 1] . O O . . X X O 
+[Player 1] . . . O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 14 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H4
+Opponent played  H4
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O O X X X X X . 
+. X X . . O O O 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O . . . . 
+Next player: BLACK
+16 blacks and 14 whites on board
+
+Before move 33
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'H3', 'A4', 'D4', 'E4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  D4
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . . . . . 
+[Player 0] O O X X X X X . 
+[Player 0] . X X X . O O O 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X . X X 
+[Player 0] . O O . . X X O 
+[Player 0] . . . O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 17 blacks and 14 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D4
+Opponent played  D4 i.e.  D4
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O O X X X X X . 
+. X X X . O O O 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O . . . . 
+Next player: WHITE
+17 blacks and 14 whites on board
+
+Before move 34
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'H3', 'A4', 'E4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  E8
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . . . . . 
+[Player 1] O O X X X X X . 
+[Player 1] . X X X . O O O 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X . X X 
+[Player 1] . O O . . X X O 
+[Player 1] . . . O O . . . 
+[Player 1] Next player: BLACK
+[Player 1] 17 blacks and 15 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E8
+Opponent played  E8
+Referee Board:
+O . . O . O . . 
+O . . . . . . . 
+O O X X X X X . 
+. X X X . O O O 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O O . . . 
+Next player: BLACK
+17 blacks and 15 whites on board
+
+Before move 35
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'H3', 'A4', 'E4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  E2
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . X . . . 
+[Player 0] O O X X X X X . 
+[Player 0] . X X X . O O O 
+[Player 0] . O X . . X . . 
+[Player 0] . . X X X . X X 
+[Player 0] . O O . . X X O 
+[Player 0] . . . O O . . . 
+[Player 0] Next player: WHITE
+[Player 0] 18 blacks and 15 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E2
+Opponent played  E2 i.e.  E2
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+. X X X . O O O 
+. O X . . X . . 
+. . X X X . X X 
+. O O . . X X O 
+. . . O O . . . 
+Next player: WHITE
+18 blacks and 15 whites on board
+
+Before move 36
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'A4', 'E4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'A7', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  A7
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . X . . . 
+[Player 1] O O X X X X X . 
+[Player 1] . X X X . O O O 
+[Player 1] . O X . . X . . 
+[Player 1] . . X X X . X X 
+[Player 1] O O O . . X X O 
+[Player 1] . . . O O . . . 
+[Player 1] Next player: BLACK
+[Player 1] 18 blacks and 16 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A7
+Opponent played  A7
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+. X X X . O O O 
+. O X . . X . . 
+. . X X X . X X 
+O O O . . X X O 
+. . . O O . . . 
+Next player: BLACK
+18 blacks and 16 whites on board
+
+Before move 37
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'A4', 'E4', 'A5', 'D5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  D5
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . X . . . 
+[Player 0] O O X X X X X . 
+[Player 0] . X X X . O O O 
+[Player 0] . O X X . X . . 
+[Player 0] . . X X X . X X 
+[Player 0] O O O . . X X O 
+[Player 0] . . . O O . . . 
+[Player 0] Next player: WHITE
+[Player 0] 19 blacks and 16 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D5
+Opponent played  D5 i.e.  D5
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+. X X X . O O O 
+. O X X . X . . 
+. . X X X . X X 
+O O O . . X X O 
+. . . O O . . . 
+Next player: WHITE
+19 blacks and 16 whites on board
+
+Before move 38
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'A4', 'E4', 'A5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  A4
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . X . . . 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] . O X X . X . . 
+[Player 1] . . X X X . X X 
+[Player 1] O O O . . X X O 
+[Player 1] . . . O O . . . 
+[Player 1] Next player: BLACK
+[Player 1] 19 blacks and 17 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A4
+Opponent played  A4
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+. . X X X . X X 
+O O O . . X X O 
+. . . O O . . . 
+Next player: BLACK
+19 blacks and 17 whites on board
+
+Before move 39
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'A6', 'B6', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  A6
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . X . . . 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] . O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O . . X X O 
+[Player 0] . . . O O . . . 
+[Player 0] Next player: WHITE
+[Player 0] 20 blacks and 17 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: A6
+Opponent played  A6 i.e.  A6
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O . . X X O 
+. . . O O . . . 
+Next player: WHITE
+20 blacks and 17 whites on board
+
+Before move 40
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'D7', 'E7', 'A8', 'B8', 'C8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  B8
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . X . . . 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] . O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O . . X X O 
+[Player 1] . O . O O . . . 
+[Player 1] Next player: BLACK
+[Player 1] 20 blacks and 18 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B8
+Opponent played  B8
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O . . X X O 
+. O . O O . . . 
+Next player: BLACK
+20 blacks and 18 whites on board
+
+Before move 41
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'D7', 'E7', 'F8', 'G8', 'H8', 'F6', 'PASS']
+I am playing  H8
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . X . . . 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] . O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O . . X X . 
+[Player 0] . O . O O . . X 
+[Player 0] Next player: WHITE
+[Player 0] 21 blacks and 17 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H8
+Opponent played  H8 i.e.  H8
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O . . X X . 
+. O . O O . . X 
+Next player: WHITE
+21 blacks and 17 whites on board
+
+Before move 42
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'D7', 'E7', 'A8', 'C8', 'F8', 'G8', 'PASS']
+I am playing  C8
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . X . . . 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] . O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O . . X X . 
+[Player 1] . O O O O . . X 
+[Player 1] Next player: BLACK
+[Player 1] 21 blacks and 18 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C8
+Opponent played  C8
+Referee Board:
+O . . O . O . . 
+O . . . X . . . 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O . . X X . 
+. O O O O . . X 
+Next player: BLACK
+21 blacks and 18 whites on board
+
+Before move 43
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'D7', 'E7', 'F8', 'G8', 'H7', 'F6', 'PASS']
+I am playing  H2
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . . X . . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] . O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O . . X X . 
+[Player 0] . O O O O . . X 
+[Player 0] Next player: WHITE
+[Player 0] 22 blacks and 18 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H2
+Opponent played  H2 i.e.  H2
+Referee Board:
+O . . O . O . . 
+O . . . X . . X 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O . . X X . 
+. O O O O . . X 
+Next player: WHITE
+22 blacks and 18 whites on board
+
+Before move 44
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'D7', 'E7', 'A8', 'F8', 'G8', 'PASS']
+I am playing  D7
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . . X . . X 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] . O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O . . X 
+[Player 1] Next player: BLACK
+[Player 1] 22 blacks and 19 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D7
+Opponent played  D7
+Referee Board:
+O . . O . O . . 
+O . . . X . . X 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O . . X 
+Next player: BLACK
+22 blacks and 19 whites on board
+
+Before move 45
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'D2', 'F2', 'G2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'E7', 'F8', 'G8', 'H7', 'F6', 'PASS']
+I am playing  D2
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . . X X . . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] . O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O . . X 
+[Player 0] Next player: WHITE
+[Player 0] 23 blacks and 19 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D2
+Opponent played  D2 i.e.  D2
+Referee Board:
+O . . O . O . . 
+O . . X X . . X 
+O O X X X X X . 
+O X X X . O O O 
+. O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O . . X 
+Next player: WHITE
+23 blacks and 19 whites on board
+
+Before move 46
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'F2', 'G2', 'H3', 'E4', 'A5', 'E5', 'G5', 'H5', 'B6', 'E7', 'A8', 'F8', 'G8', 'PASS']
+I am playing  A5
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . . X X . . X 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] O O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O . . X 
+[Player 1] Next player: BLACK
+[Player 1] 23 blacks and 20 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A5
+Opponent played  A5
+Referee Board:
+O . . O . O . . 
+O . . X X . . X 
+O O X X X X X . 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O . . X 
+Next player: BLACK
+23 blacks and 20 whites on board
+
+Before move 47
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'C2', 'F2', 'G2', 'H3', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'F8', 'G8', 'H7', 'F6', 'PASS']
+I am playing  C2
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . X X X . . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] O O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O . . X 
+[Player 0] Next player: WHITE
+[Player 0] 24 blacks and 20 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C2
+Opponent played  C2 i.e.  C2
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X . 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O . . X 
+Next player: WHITE
+24 blacks and 20 whites on board
+
+Before move 48
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'H3', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'A8', 'F8', 'G8', 'PASS']
+I am playing  G8
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . X X X . . X 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X . O O O 
+[Player 1] O O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O . O X 
+[Player 1] Next player: BLACK
+[Player 1] 24 blacks and 21 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G8
+Opponent played  G8
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X . 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O . O X 
+Next player: BLACK
+24 blacks and 21 whites on board
+
+Before move 49
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'H3', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'F8', 'H7', 'F6', 'PASS']
+I am playing  F8
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . X X X . . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X . O O O 
+[Player 0] O O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X . X 
+[Player 0] Next player: WHITE
+[Player 0] 25 blacks and 20 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F8
+Opponent played  F8 i.e.  F8
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X . 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X . X 
+Next player: WHITE
+25 blacks and 20 whites on board
+
+Before move 50
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'H3', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'A8', 'PASS']
+I am playing  H3
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . X X X . . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X . O O O 
+[Player 1] O O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X . X 
+[Player 1] Next player: BLACK
+[Player 1] 25 blacks and 21 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H3
+Opponent played  H3
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X O 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X . X 
+Next player: BLACK
+25 blacks and 21 whites on board
+
+Before move 51
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'H7', 'G8', 'F6', 'PASS']
+I am playing  G8
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . X X X . . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X . O O O 
+[Player 0] O O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 26 blacks and 21 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G8
+Opponent played  G8 i.e.  G8
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X O 
+O X X X . O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+26 blacks and 21 whites on board
+
+Before move 52
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'E4', 'E5', 'G5', 'H5', 'B6', 'E7', 'A8', 'PASS']
+I am playing  E5
+[Player 1] My current board :
+[Player 1] O . . O . O . . 
+[Player 1] O . X X X . . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X . O O O 
+[Player 1] O O X X O X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 26 blacks and 22 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E5
+Opponent played  E5
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X O 
+O X X X . O O O 
+O O X X O X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+26 blacks and 22 whites on board
+
+Before move 53
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'E4', 'G5', 'H5', 'B6', 'E7', 'H7', 'F6', 'PASS']
+I am playing  E4
+[Player 0] My current board :
+[Player 0] O . . O . O . . 
+[Player 0] O . X X X . . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 27 blacks and 21 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E4
+Opponent played  E4 i.e.  E4
+Referee Board:
+O . . O . O . . 
+O . X X X . . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+27 blacks and 21 whites on board
+
+Before move 54
+Legal Moves:  ['B1', 'C1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'G5', 'H5', 'B6', 'E7', 'A8', 'PASS']
+I am playing  C1
+[Player 1] My current board :
+[Player 1] O . O O . O . . 
+[Player 1] O . X X X . . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 27 blacks and 22 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C1
+Opponent played  C1
+Referee Board:
+O . O O . O . . 
+O . X X X . . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+27 blacks and 22 whites on board
+
+Before move 55
+Legal Moves:  ['B1', 'E1', 'G1', 'H1', 'B2', 'F2', 'G2', 'G5', 'H5', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  F2
+[Player 0] My current board :
+[Player 0] O . O O . O . . 
+[Player 0] O . X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X . . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 28 blacks and 22 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F2
+Opponent played  F2 i.e.  F2
+Referee Board:
+O . O O . O . . 
+O . X X X X . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+28 blacks and 22 whites on board
+
+Before move 56
+Legal Moves:  ['B1', 'E1', 'G1', 'H1', 'B2', 'G2', 'G5', 'H5', 'B6', 'E7', 'A8', 'PASS']
+I am playing  E1
+[Player 1] My current board :
+[Player 1] O . O O O O . . 
+[Player 1] O . X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X . . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 28 blacks and 23 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E1
+Opponent played  E1
+Referee Board:
+O . O O O O . . 
+O . X X X X . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X . . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+28 blacks and 23 whites on board
+
+Before move 57
+Legal Moves:  ['B1', 'G1', 'H1', 'B2', 'G2', 'G5', 'H5', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  G5
+[Player 0] My current board :
+[Player 0] O . O O O O . . 
+[Player 0] O . X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X X . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 29 blacks and 23 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G5
+Opponent played  G5 i.e.  G5
+Referee Board:
+O . O O O O . . 
+O . X X X X . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+29 blacks and 23 whites on board
+
+Before move 58
+Legal Moves:  ['B1', 'G1', 'H1', 'B2', 'G2', 'B6', 'E7', 'A8', 'PASS']
+I am playing  H1
+[Player 1] My current board :
+[Player 1] O . O O O O . O 
+[Player 1] O . X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X X . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 29 blacks and 24 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H1
+Opponent played  H1
+Referee Board:
+O . O O O O . O 
+O . X X X X . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+29 blacks and 24 whites on board
+
+Before move 59
+Legal Moves:  ['B1', 'G1', 'B2', 'G2', 'H5', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  B1
+[Player 0] My current board :
+[Player 0] O X O O O O . O 
+[Player 0] O . X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X X . 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 30 blacks and 24 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B1
+Opponent played  B1 i.e.  B1
+Referee Board:
+O X O O O O . O 
+O . X X X X . X 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+30 blacks and 24 whites on board
+
+Before move 60
+Legal Moves:  ['G1', 'B2', 'G2', 'B6', 'E7', 'A8', 'PASS']
+I am playing  G2
+[Player 1] My current board :
+[Player 1] O X O O O O . O 
+[Player 1] O . X X X X O . 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X X . 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 29 blacks and 25 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G2
+Opponent played  G2
+Referee Board:
+O X O O O O . O 
+O . X X X X O . 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X . 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+29 blacks and 25 whites on board
+
+Before move 61
+Legal Moves:  ['G1', 'B2', 'H5', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  H5
+[Player 0] My current board :
+[Player 0] O X O O O O . O 
+[Player 0] O . X X X X O . 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 30 blacks and 25 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H5
+Opponent played  H5 i.e.  H5
+Referee Board:
+O X O O O O . O 
+O . X X X X O . 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+30 blacks and 25 whites on board
+
+Before move 62
+Legal Moves:  ['G1', 'B2', 'B6', 'E7', 'A8', 'H2', 'PASS']
+I am playing  H2
+[Player 1] My current board :
+[Player 1] O X O O O O . O 
+[Player 1] O . X X X X O O 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] . O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 30 blacks and 26 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H2
+Opponent played  H2
+Referee Board:
+O X O O O O . O 
+O . X X X X O O 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: BLACK
+30 blacks and 26 whites on board
+
+Before move 63
+Legal Moves:  ['G1', 'B2', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  B2
+[Player 0] My current board :
+[Player 0] O X O O O O . O 
+[Player 0] O X X X X X O O 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X . 
+[Player 0] . O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 31 blacks and 26 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B2
+Opponent played  B2 i.e.  B2
+Referee Board:
+O X O O O O . O 
+O X X X X X O O 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O . X X . 
+. O O O O X X X 
+Next player: WHITE
+31 blacks and 26 whites on board
+
+Before move 64
+Legal Moves:  ['B6', 'E7', 'A8', 'PASS']
+I am playing  A8
+[Player 1] My current board :
+[Player 1] O X O O O O . O 
+[Player 1] O X X X X X O O 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O . X X . 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 31 blacks and 27 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A8
+Opponent played  A8
+Referee Board:
+O X O O O O . O 
+O X X X X X O O 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O . X X . 
+O O O O O X X X 
+Next player: BLACK
+31 blacks and 27 whites on board
+
+Before move 65
+Legal Moves:  ['G1', 'B6', 'E7', 'H7', 'E5', 'F6', 'PASS']
+I am playing  H7
+[Player 0] My current board :
+[Player 0] O X O O O O . O 
+[Player 0] O X X X X X O O 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X O O O 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O . X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 32 blacks and 27 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H7
+Opponent played  H7 i.e.  H7
+Referee Board:
+O X O O O O . O 
+O X X X X X O O 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O . X X X 
+O O O O O X X X 
+Next player: WHITE
+32 blacks and 27 whites on board
+
+Before move 66
+Legal Moves:  ['B6', 'E7', 'PASS']
+I am playing  E7
+[Player 1] My current board :
+[Player 1] O X O O O O . O 
+[Player 1] O X X X X X O O 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X O O O 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 32 blacks and 28 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E7
+Opponent played  E7
+Referee Board:
+O X O O O O . O 
+O X X X X X O O 
+O O X X X X X O 
+O X X X X O O O 
+O O X X . X X X 
+X . X X X . X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+32 blacks and 28 whites on board
+
+Before move 67
+Legal Moves:  ['G1', 'B6', 'E5', 'F6', 'PASS']
+I am playing  G1
+[Player 0] My current board :
+[Player 0] O X . . . . X . 
+[Player 0] O X X X X X . . 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X X . . . 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 33 blacks and 17 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G1
+Opponent played  G1 i.e.  G1
+Referee Board:
+O X . . . . X . 
+O X X X X X . . 
+O O X X X X X . 
+O X X X X . . . 
+O O X X . X X X 
+X . X X X . X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+33 blacks and 17 whites on board
+
+Before move 68
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'H1', 'G2', 'H2', 'H3', 'F4', 'G4', 'H4', 'B6', 'PASS']
+I am playing  H1
+[Player 1] My current board :
+[Player 1] O X . . . . X O 
+[Player 1] O X X X X X . . 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X X . . . 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 33 blacks and 18 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H1
+Opponent played  H1
+Referee Board:
+O X . . . . X O 
+O X X X X X . . 
+O O X X X X X . 
+O X X X X . . . 
+O O X X . X X X 
+X . X X X . X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+33 blacks and 18 whites on board
+
+Before move 69
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'G2', 'H2', 'H3', 'F4', 'G4', 'H4', 'E5', 'B6', 'F6', 'PASS']
+I am playing  H2
+[Player 0] My current board :
+[Player 0] O X . . . . X . 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X X . . . 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X . X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 34 blacks and 17 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H2
+Opponent played  H2 i.e.  H2
+Referee Board:
+O X . . . . X . 
+O X X X X X . X 
+O O X X X X X . 
+O X X X X . . . 
+O O X X . X X X 
+X . X X X . X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+34 blacks and 17 whites on board
+
+Before move 70
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'H3', 'F4', 'G4', 'H4', 'B6', 'PASS']
+I am playing  G4
+[Player 1] My current board :
+[Player 1] O X . . . . X . 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X . 
+[Player 1] O X X X X . O . 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X . X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 34 blacks and 18 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G4
+Opponent played  G4
+Referee Board:
+O X . . . . X . 
+O X X X X X . X 
+O O X X X X X . 
+O X X X X . O . 
+O O X X . X X X 
+X . X X X . X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+34 blacks and 18 whites on board
+
+Before move 71
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'H1', 'G2', 'H3', 'F4', 'H4', 'E5', 'B6', 'F6', 'PASS']
+I am playing  F6
+[Player 0] My current board :
+[Player 0] O X . . . . X . 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X . 
+[Player 0] O X X X X . O . 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 35 blacks and 18 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F6
+Opponent played  F6 i.e.  F6
+Referee Board:
+O X . . . . X . 
+O X X X X X . X 
+O O X X X X X . 
+O X X X X . O . 
+O O X X . X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+35 blacks and 18 whites on board
+
+Before move 72
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'H3', 'F4', 'H4', 'B6', 'PASS']
+I am playing  H3
+[Player 1] My current board :
+[Player 1] O X . . . . X . 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O . 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 35 blacks and 19 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H3
+Opponent played  H3
+Referee Board:
+O X . . . . X . 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O . 
+O O X X . X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+35 blacks and 19 whites on board
+
+Before move 73
+Legal Moves:  ['C1', 'D1', 'E1', 'F1', 'H1', 'G2', 'F4', 'H4', 'E5', 'B6', 'PASS']
+I am playing  C1
+[Player 0] My current board :
+[Player 0] O X X . . . X . 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X . O . 
+[Player 0] O O X X . X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 36 blacks and 19 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C1
+Opponent played  C1 i.e.  C1
+Referee Board:
+O X X . . . X . 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O . 
+O O X X . X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+36 blacks and 19 whites on board
+
+Before move 74
+Legal Moves:  ['D1', 'E1', 'F1', 'F4', 'H4', 'B6', 'PASS']
+I am playing  H4
+[Player 1] My current board :
+[Player 1] O X X . . . X . 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] O O X X . X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 36 blacks and 20 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H4
+Opponent played  H4
+Referee Board:
+O X X . . . X . 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X . X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+36 blacks and 20 whites on board
+
+Before move 75
+Legal Moves:  ['D1', 'E1', 'F1', 'H1', 'G2', 'F4', 'E5', 'B6', 'PASS']
+I am playing  E5
+[Player 0] My current board :
+[Player 0] O X X . . . X . 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] O O X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 37 blacks and 20 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E5
+Opponent played  E5 i.e.  E5
+Referee Board:
+O X X . . . X . 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+37 blacks and 20 whites on board
+
+Before move 76
+Legal Moves:  ['D1', 'E1', 'F1', 'B6', 'PASS']
+I am playing  E1
+[Player 1] My current board :
+[Player 1] O X X . O . X . 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] O O X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 37 blacks and 21 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E1
+Opponent played  E1
+Referee Board:
+O X X . O . X . 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+37 blacks and 21 whites on board
+
+Before move 77
+Legal Moves:  ['D1', 'F1', 'H1', 'G2', 'F4', 'B6', 'PASS']
+I am playing  H1
+[Player 0] My current board :
+[Player 0] O X X . O . X X 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] O O X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 38 blacks and 21 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H1
+Opponent played  H1 i.e.  H1
+Referee Board:
+O X X . O . X X 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+38 blacks and 21 whites on board
+
+Before move 78
+Legal Moves:  ['D1', 'F1', 'B6', 'PASS']
+I am playing  F1
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] O O X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 38 blacks and 22 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F1
+Opponent played  F1
+Referee Board:
+O X X . O O X X 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+38 blacks and 22 whites on board
+
+Before move 79
+Legal Moves:  ['D1', 'G2', 'F4', 'B6', 'PASS']
+I am playing  D1
+[Player 0] My current board :
+[Player 0] O X X X . . X X 
+[Player 0] O X X X X X . X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] O O X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 39 blacks and 20 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D1
+Opponent played  D1 i.e.  D1
+Referee Board:
+O X X X . . X X 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+39 blacks and 20 whites on board
+
+Before move 80
+Legal Moves:  ['E1', 'F1', 'B6', 'PASS']
+I am playing  F1
+[Player 1] My current board :
+[Player 1] O X X X . O X X 
+[Player 1] O X X X X X . X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] O O X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 39 blacks and 21 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F1
+Opponent played  F1
+Referee Board:
+O X X X . O X X 
+O X X X X X . X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+39 blacks and 21 whites on board
+
+Before move 81
+Legal Moves:  ['E1', 'G2', 'F4', 'B6', 'PASS']
+I am playing  G2
+[Player 0] My current board :
+[Player 0] O X X X . O X X 
+[Player 0] O X X X X X X X 
+[Player 0] O O X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] O O X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O O O X X X 
+[Player 0] O O O O O X X X 
+[Player 0] Next player: WHITE
+[Player 0] 40 blacks and 21 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G2
+Opponent played  G2 i.e.  G2
+Referee Board:
+O X X X . O X X 
+O X X X X X X X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+X . X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: WHITE
+40 blacks and 21 whites on board
+
+Before move 82
+Legal Moves:  ['B6', 'PASS']
+I am playing  B6
+[Player 1] My current board :
+[Player 1] O X X X . O X X 
+[Player 1] O X X X X X X X 
+[Player 1] O O X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] O O X X X X X X 
+[Player 1] . O X X X X X X 
+[Player 1] O O O O O X X X 
+[Player 1] O O O O O X X X 
+[Player 1] Next player: BLACK
+[Player 1] 39 blacks and 22 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B6
+Opponent played  B6
+Referee Board:
+O X X X . O X X 
+O X X X X X X X 
+O O X X X X X O 
+O X X X X . O O 
+O O X X X X X X 
+. O X X X X X X 
+O O O O O X X X 
+O O O O O X X X 
+Next player: BLACK
+39 blacks and 22 whites on board
+
+Before move 83
+Legal Moves:  ['E1', 'F4', 'A6', 'PASS']
+I am playing  A6
+[Player 0] My current board :
+[Player 0] . X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] . . X X X X X O 
+[Player 0] . X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] . . . . . X X X 
+[Player 0] . . . . . X X X 
+[Player 0] Next player: WHITE
+[Player 0] 40 blacks and 4 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: A6
+Opponent played  A6 i.e.  A6
+Referee Board:
+. X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+. . . . . X X X 
+. . . . . X X X 
+Next player: WHITE
+40 blacks and 4 whites on board
+
+Before move 84
+Legal Moves:  ['A1', 'A2', 'A3', 'B3', 'A4', 'A5', 'B5', 'B6', 'A7', 'B7', 'C7', 'D7', 'E7', 'A8', 'B8', 'C8', 'D8', 'E8', 'PASS']
+I am playing  B7
+[Player 1] My current board :
+[Player 1] . X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] . . X X X X X O 
+[Player 1] . X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] . O . . . X X X 
+[Player 1] . . . . . X X X 
+[Player 1] Next player: BLACK
+[Player 1] 40 blacks and 5 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B7
+Opponent played  B7
+Referee Board:
+. X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+. O . . . X X X 
+. . . . . X X X 
+Next player: BLACK
+40 blacks and 5 whites on board
+
+Before move 85
+Legal Moves:  ['A1', 'E1', 'A2', 'A3', 'B3', 'A4', 'F4', 'A5', 'B5', 'B6', 'A7', 'C7', 'D7', 'E7', 'A8', 'B8', 'C8', 'D8', 'E8', 'PASS']
+I am playing  A1
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] . . X X X X X O 
+[Player 0] . X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] . O . . . X X X 
+[Player 0] . . . . . X X X 
+[Player 0] Next player: WHITE
+[Player 0] 41 blacks and 5 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: A1
+Opponent played  A1 i.e.  A1
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+. O . . . X X X 
+. . . . . X X X 
+Next player: WHITE
+41 blacks and 5 whites on board
+
+Before move 86
+Legal Moves:  ['A2', 'A3', 'B3', 'A4', 'A5', 'B5', 'B6', 'A7', 'C7', 'D7', 'E7', 'A8', 'B8', 'C8', 'D8', 'E8', 'PASS']
+I am playing  D8
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] . . X X X X X O 
+[Player 1] . X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] . O . . . X X X 
+[Player 1] . . . O . X X X 
+[Player 1] Next player: BLACK
+[Player 1] 41 blacks and 6 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D8
+Opponent played  D8
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+. O . . . X X X 
+. . . O . X X X 
+Next player: BLACK
+41 blacks and 6 whites on board
+
+Before move 87
+Legal Moves:  ['E1', 'A2', 'A3', 'B3', 'A4', 'F4', 'A5', 'B5', 'B6', 'A7', 'C7', 'D7', 'E7', 'A8', 'B8', 'C8', 'E8', 'PASS']
+I am playing  B8
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] . . X X X X X O 
+[Player 0] . X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] . O . . . X X X 
+[Player 0] . X . O . X X X 
+[Player 0] Next player: WHITE
+[Player 0] 42 blacks and 6 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B8
+Opponent played  B8 i.e.  B8
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+. O . . . X X X 
+. X . O . X X X 
+Next player: WHITE
+42 blacks and 6 whites on board
+
+Before move 88
+Legal Moves:  ['A2', 'A3', 'B3', 'A4', 'A5', 'B5', 'B6', 'A7', 'C7', 'D7', 'E7', 'A8', 'C8', 'E8', 'PASS']
+I am playing  A7
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] . . X X X X X O 
+[Player 1] . X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O . . . X X X 
+[Player 1] . X . O . X X X 
+[Player 1] Next player: BLACK
+[Player 1] 42 blacks and 7 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A7
+Opponent played  A7
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . . X X X 
+. X . O . X X X 
+Next player: BLACK
+42 blacks and 7 whites on board
+
+Before move 89
+Legal Moves:  ['E1', 'A2', 'A3', 'B3', 'A4', 'F4', 'A5', 'B5', 'B6', 'C7', 'D7', 'E7', 'A8', 'C8', 'E8', 'PASS']
+I am playing  E7
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] . . X X X X X O 
+[Player 0] . X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O . . X X X X 
+[Player 0] . X . O . X X X 
+[Player 0] Next player: WHITE
+[Player 0] 43 blacks and 7 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E7
+Opponent played  E7 i.e.  E7
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+. X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X . O . X X X 
+Next player: WHITE
+43 blacks and 7 whites on board
+
+Before move 90
+Legal Moves:  ['A2', 'A3', 'B3', 'A4', 'A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'C8', 'E8', 'PASS']
+I am playing  A4
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] . . X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O . . X X X X 
+[Player 1] . X . O . X X X 
+[Player 1] Next player: BLACK
+[Player 1] 43 blacks and 8 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A4
+Opponent played  A4
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X . O . X X X 
+Next player: BLACK
+43 blacks and 8 whites on board
+
+Before move 91
+Legal Moves:  ['E1', 'A2', 'A3', 'B3', 'F4', 'A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'C8', 'E8', 'PASS']
+I am playing  E8
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] . . X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O . . X X X X 
+[Player 0] . X . O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 44 blacks and 8 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E8
+Opponent played  E8 i.e.  E8
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+. . X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X . O X X X X 
+Next player: WHITE
+44 blacks and 8 whites on board
+
+Before move 92
+Legal Moves:  ['A2', 'A3', 'B3', 'A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'C8', 'PASS']
+I am playing  A3
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] O . X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O . . X X X X 
+[Player 1] . X . O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 44 blacks and 9 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A3
+Opponent played  A3
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+O . X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X . O X X X X 
+Next player: BLACK
+44 blacks and 9 whites on board
+
+Before move 93
+Legal Moves:  ['E1', 'A2', 'B3', 'F4', 'A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'C8', 'PASS']
+I am playing  B3
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] . X X X X X X X 
+[Player 0] O X X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O . . X X X X 
+[Player 0] . X . O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 45 blacks and 9 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B3
+Opponent played  B3 i.e.  B3
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+O X X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X . O X X X X 
+Next player: WHITE
+45 blacks and 9 whites on board
+
+Before move 94
+Legal Moves:  ['A2', 'A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'C8', 'PASS']
+I am playing  C8
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] . X X X X X X X 
+[Player 1] O X X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O . . X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 45 blacks and 10 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C8
+Opponent played  C8
+Referee Board:
+X X X X . O X X 
+. X X X X X X X 
+O X X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X O O X X X X 
+Next player: BLACK
+45 blacks and 10 whites on board
+
+Before move 95
+Legal Moves:  ['E1', 'A2', 'F4', 'A5', 'B5', 'B6', 'C7', 'D7', 'PASS']
+I am playing  A2
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X O 
+[Player 0] O X X X X . O O 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O . . X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 46 blacks and 10 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: A2
+Opponent played  A2 i.e.  A2
+Referee Board:
+X X X X . O X X 
+X X X X X X X X 
+O X X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O . . X X X X 
+. X O O X X X X 
+Next player: WHITE
+46 blacks and 10 whites on board
+
+Before move 96
+Legal Moves:  ['A5', 'B5', 'B6', 'C7', 'D7', 'A8', 'PASS']
+I am playing  C7
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] X X X X X X X X 
+[Player 1] O X X X X X X O 
+[Player 1] O X X X X . O O 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O . X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 46 blacks and 11 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C7
+Opponent played  C7
+Referee Board:
+X X X X . O X X 
+X X X X X X X X 
+O X X X X X X O 
+O X X X X . O O 
+. . X X X X X X 
+X . X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: BLACK
+46 blacks and 11 whites on board
+
+Before move 97
+Legal Moves:  ['E1', 'F4', 'A5', 'B5', 'B6', 'D7', 'PASS']
+I am playing  F4
+[Player 0] My current board :
+[Player 0] X X X X . O X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X . 
+[Player 0] O X X X X X . . 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O . X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 47 blacks and 8 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F4
+Opponent played  F4 i.e.  F4
+Referee Board:
+X X X X . O X X 
+X X X X X X X X 
+O X X X X X X . 
+O X X X X X . . 
+. . X X X X X X 
+X . X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: WHITE
+47 blacks and 8 whites on board
+
+Before move 98
+Legal Moves:  ['H3', 'G4', 'H4', 'A5', 'B5', 'B6', 'D7', 'A8', 'PASS']
+I am playing  G4
+[Player 1] My current board :
+[Player 1] X X X X . O X X 
+[Player 1] X X X X X X X X 
+[Player 1] O X X X X X X . 
+[Player 1] O X X X X X O . 
+[Player 1] . . X X X X X X 
+[Player 1] X . X X X X X X 
+[Player 1] O O O . X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 47 blacks and 9 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G4
+Opponent played  G4
+Referee Board:
+X X X X . O X X 
+X X X X X X X X 
+O X X X X X X . 
+O X X X X X O . 
+. . X X X X X X 
+X . X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: BLACK
+47 blacks and 9 whites on board
+
+Before move 99
+Legal Moves:  ['E1', 'H3', 'H4', 'A5', 'B5', 'B6', 'D7', 'PASS']
+I am playing  E1
+[Player 0] My current board :
+[Player 0] X X X X X . X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X . 
+[Player 0] O X X X X X O . 
+[Player 0] . . X X X X X X 
+[Player 0] X . X X X X X X 
+[Player 0] O O O . X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 48 blacks and 8 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E1
+Opponent played  E1 i.e.  E1
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X . 
+O X X X X X O . 
+. . X X X X X X 
+X . X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: WHITE
+48 blacks and 8 whites on board
+
+Before move 100
+Legal Moves:  ['H3', 'H4', 'A5', 'B5', 'B6', 'D7', 'A8', 'PASS']
+I am playing  B6
+[Player 1] My current board :
+[Player 1] X X X X X . X X 
+[Player 1] X X X X X X X X 
+[Player 1] O X X X X X X . 
+[Player 1] O X X X X X O . 
+[Player 1] . . X X X X X X 
+[Player 1] X O X X X X X X 
+[Player 1] O O O . X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 48 blacks and 9 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B6
+Opponent played  B6
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X . 
+O X X X X X O . 
+. . X X X X X X 
+X O X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: BLACK
+48 blacks and 9 whites on board
+
+Before move 101
+Legal Moves:  ['F1', 'H3', 'H4', 'A5', 'B5', 'D7', 'PASS']
+I am playing  H3
+[Player 0] My current board :
+[Player 0] X X X X X . X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X X 
+[Player 0] O X X X X X O . 
+[Player 0] . . X X X X X X 
+[Player 0] X O X X X X X X 
+[Player 0] O O O . X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 49 blacks and 9 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H3
+Opponent played  H3 i.e.  H3
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X X 
+O X X X X X O . 
+. . X X X X X X 
+X O X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: WHITE
+49 blacks and 9 whites on board
+
+Before move 102
+Legal Moves:  ['A5', 'B5', 'D7', 'A8', 'PASS']
+I am playing  B5
+[Player 1] My current board :
+[Player 1] X X X X X . X X 
+[Player 1] X X X X X X X X 
+[Player 1] O X X X X X X X 
+[Player 1] O X X X X X O . 
+[Player 1] . O X X X X X X 
+[Player 1] X O X X X X X X 
+[Player 1] O O O . X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 49 blacks and 10 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B5
+Opponent played  B5
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X X 
+O X X X X X O . 
+. O X X X X X X 
+X O X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: BLACK
+49 blacks and 10 whites on board
+
+Before move 103
+Legal Moves:  ['F1', 'H4', 'A5', 'D7', 'PASS']
+I am playing  H4
+[Player 0] My current board :
+[Player 0] X X X X X . X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X X 
+[Player 0] O X X X X X . X 
+[Player 0] . O X X X X X X 
+[Player 0] X O X X X X X X 
+[Player 0] O O O . X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 50 blacks and 9 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H4
+Opponent played  H4 i.e.  H4
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X X 
+O X X X X X . X 
+. O X X X X X X 
+X O X X X X X X 
+O O O . X X X X 
+. X O O X X X X 
+Next player: WHITE
+50 blacks and 9 whites on board
+
+Before move 104
+Legal Moves:  ['A5', 'D7', 'A8', 'PASS']
+I am playing  D7
+[Player 1] My current board :
+[Player 1] X X X X X . X X 
+[Player 1] X X X X X X X X 
+[Player 1] O X X X X X X X 
+[Player 1] O X X X X X . X 
+[Player 1] . O X X X X X X 
+[Player 1] X O X X X X X X 
+[Player 1] O O O O X X X X 
+[Player 1] . X O O X X X X 
+[Player 1] Next player: BLACK
+[Player 1] 50 blacks and 10 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D7
+Opponent played  D7
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X X 
+O X X X X X . X 
+. O X X X X X X 
+X O X X X X X X 
+O O O O X X X X 
+. X O O X X X X 
+Next player: BLACK
+50 blacks and 10 whites on board
+
+Before move 105
+Legal Moves:  ['F1', 'A5', 'G4', 'PASS']
+I am playing  G4
+[Player 0] My current board :
+[Player 0] X X X X X . X X 
+[Player 0] X X X X X X X X 
+[Player 0] O X X X X X X X 
+[Player 0] O X X X X X X X 
+[Player 0] . O X X X X X X 
+[Player 0] X O X X X X X X 
+[Player 0] O O O O X X X X 
+[Player 0] . X O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 51 blacks and 10 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G4
+Opponent played  G4 i.e.  G4
+Referee Board:
+X X X X X . X X 
+X X X X X X X X 
+O X X X X X X X 
+O X X X X X X X 
+. O X X X X X X 
+X O X X X X X X 
+O O O O X X X X 
+. X O O X X X X 
+Next player: WHITE
+51 blacks and 10 whites on board
+
+Before move 106
+Legal Moves:  ['F1', 'A5', 'A8', 'PASS']
+I am playing  F1
+[Player 1] My current board :
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . . . 
+[Player 1] X O . . . . . . 
+[Player 1] O O O O . . . . 
+[Player 1] . X O O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 2 blacks and 11 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F1
+Opponent played  F1
+Referee Board:
+. . . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . . . 
+X O . . . . . . 
+O O O O . . . . 
+. X O O . . . . 
+Next player: BLACK
+2 blacks and 11 whites on board
+
+Before move 107
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'G5', 'H5', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'F7', 'G7', 'H7', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G5
+[Player 0] My current board :
+[Player 0] . . . . . O . . 
+[Player 0] . . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O . . . . . . 
+[Player 0] O O O O . . . . 
+[Player 0] . X O O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 3 blacks and 11 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G5
+Opponent played  G5 i.e.  G5
+Referee Board:
+. . . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O . . . . . . 
+O O O O . . . . 
+. X O O . . . . 
+Next player: WHITE
+3 blacks and 11 whites on board
+
+Before move 108
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'F7', 'G7', 'H7', 'A8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  F7
+[Player 1] My current board :
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . X . 
+[Player 1] X O . . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] . X O O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 3 blacks and 12 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F7
+Opponent played  F7
+Referee Board:
+. . . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O . . . . . . 
+O O O O . O . . 
+. X O O . . . . 
+Next player: BLACK
+3 blacks and 12 whites on board
+
+Before move 109
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'C6', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  C6
+[Player 0] My current board :
+[Player 0] . . . . . O . . 
+[Player 0] . . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . . . . . 
+[Player 0] O O O O . O . . 
+[Player 0] . X O O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 4 blacks and 12 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C6
+Opponent played  C6 i.e.  C6
+Referee Board:
+. . . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+. X O O . . . . 
+Next player: WHITE
+4 blacks and 12 whites on board
+
+Before move 110
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'A8', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G8
+[Player 1] My current board :
+[Player 1] . . . . . O . . 
+[Player 1] . . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] . X O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 4 blacks and 13 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G8
+Opponent played  G8
+Referee Board:
+. . . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+. X O O . . O . 
+Next player: BLACK
+4 blacks and 13 whites on board
+
+Before move 111
+Legal Moves:  ['A1', 'B1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  B1
+[Player 0] My current board :
+[Player 0] . X . . . O . . 
+[Player 0] . . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . . . . . 
+[Player 0] O O O O . O . . 
+[Player 0] . X O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 5 blacks and 13 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B1
+Opponent played  B1 i.e.  B1
+Referee Board:
+. X . . . O . . 
+. . . . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+. X O O . . O . 
+Next player: WHITE
+5 blacks and 13 whites on board
+
+Before move 112
+Legal Moves:  ['A1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'C2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'A8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  C2
+[Player 1] My current board :
+[Player 1] . X . . . O . . 
+[Player 1] . . O . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] . X O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 5 blacks and 14 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C2
+Opponent played  C2
+Referee Board:
+. X . . . O . . 
+. . O . . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+. X O O . . O . 
+Next player: BLACK
+5 blacks and 14 whites on board
+
+Before move 113
+Legal Moves:  ['A1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'D2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  D2
+[Player 0] My current board :
+[Player 0] . X . . . O . . 
+[Player 0] . . O X . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . . . . . 
+[Player 0] O O O O . O . . 
+[Player 0] . X O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 6 blacks and 14 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D2
+Opponent played  D2 i.e.  D2
+Referee Board:
+. X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+. X O O . . O . 
+Next player: WHITE
+6 blacks and 14 whites on board
+
+Before move 114
+Legal Moves:  ['A1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'A8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  A8
+[Player 1] My current board :
+[Player 1] . X . . . O . . 
+[Player 1] . . O X . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 5 blacks and 15 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A8
+Opponent played  A8
+Referee Board:
+. X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . . . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+5 blacks and 15 whites on board
+
+Before move 115
+Legal Moves:  ['A1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'E6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  E6
+[Player 0] My current board :
+[Player 0] . X . . . O . . 
+[Player 0] . . O X . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . X . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 6 blacks and 15 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E6
+Opponent played  E6 i.e.  E6
+Referee Board:
+. X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: WHITE
+6 blacks and 15 whites on board
+
+Before move 116
+Legal Moves:  ['A1', 'C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  A1
+[Player 1] My current board :
+[Player 1] O X . . . O . . 
+[Player 1] . . O X . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . X . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 6 blacks and 16 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A1
+Opponent played  A1
+Referee Board:
+O X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O . . . . . . . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+6 blacks and 16 whites on board
+
+Before move 117
+Legal Moves:  ['C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'B4', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  B4
+[Player 0] My current board :
+[Player 0] O X . . . O . . 
+[Player 0] . . O X . . . . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . . . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . X . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 7 blacks and 16 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B4
+Opponent played  B4 i.e.  B4
+Referee Board:
+O X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O X . . . . . . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: WHITE
+7 blacks and 16 whites on board
+
+Before move 118
+Legal Moves:  ['C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'G4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  G4
+[Player 1] My current board :
+[Player 1] O X . . . O . . 
+[Player 1] . . O X . . . . 
+[Player 1] O . . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . X . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 7 blacks and 17 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G4
+Opponent played  G4
+Referee Board:
+O X . . . O . . 
+. . O X . . . . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+7 blacks and 17 whites on board
+
+Before move 119
+Legal Moves:  ['C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'G2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  G2
+[Player 0] My current board :
+[Player 0] O X . . . O . . 
+[Player 0] . . O X . . X . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . X . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 8 blacks and 17 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G2
+Opponent played  G2 i.e.  G2
+Referee Board:
+O X . . . O . . 
+. . O X . . X . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: WHITE
+8 blacks and 17 whites on board
+
+Before move 120
+Legal Moves:  ['C1', 'D1', 'E1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  E1
+[Player 1] My current board :
+[Player 1] O X . . O O . . 
+[Player 1] . . O X . . X . 
+[Player 1] O . . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X . X . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 8 blacks and 18 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E1
+Opponent played  E1
+Referee Board:
+O X . . O O . . 
+. . O X . . X . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+8 blacks and 18 whites on board
+
+Before move 121
+Legal Moves:  ['C1', 'D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'F2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  F2
+[Player 0] My current board :
+[Player 0] O X . . O O . . 
+[Player 0] . . O X . X X . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X . X . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 9 blacks and 18 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F2
+Opponent played  F2 i.e.  F2
+Referee Board:
+O X . . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X . X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: WHITE
+9 blacks and 18 whites on board
+
+Before move 122
+Legal Moves:  ['C1', 'D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'D6', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  D6
+[Player 1] My current board :
+[Player 1] O X . . O O . . 
+[Player 1] . . O X . X X . 
+[Player 1] O . . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] . O . . . . X . 
+[Player 1] X O X O X . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 9 blacks and 19 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D6
+Opponent played  D6
+Referee Board:
+O X . . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X O X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+9 blacks and 19 whites on board
+
+Before move 123
+Legal Moves:  ['C1', 'D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  C1
+[Player 0] My current board :
+[Player 0] O X X . O O . . 
+[Player 0] . . O X . X X . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] . O . . . . X . 
+[Player 0] X O X O X . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 10 blacks and 19 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C1
+Opponent played  C1 i.e.  C1
+Referee Board:
+O X X . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+. O . . . . X . 
+X O X O X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: WHITE
+10 blacks and 19 whites on board
+
+Before move 124
+Legal Moves:  ['D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'A5', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  A5
+[Player 1] My current board :
+[Player 1] O X X . O O . . 
+[Player 1] . . O X . X X . 
+[Player 1] O . . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 9 blacks and 20 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A5
+Opponent played  A5
+Referee Board:
+O X X . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O . . 
+O . O O . . O . 
+Next player: BLACK
+9 blacks and 20 whites on board
+
+Before move 125
+Legal Moves:  ['D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E7', 'G7', 'H7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  G7
+[Player 0] My current board :
+[Player 0] O X X . O O . . 
+[Player 0] . . O X . X X . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O . O X . 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 10 blacks and 20 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G7
+Opponent played  G7 i.e.  G7
+Referee Board:
+O X X . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O X . 
+O . O O . . O . 
+Next player: WHITE
+10 blacks and 20 whites on board
+
+Before move 126
+Legal Moves:  ['D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'E7', 'H7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  H7
+[Player 1] My current board :
+[Player 1] O X X . O O . . 
+[Player 1] . . O X . X X . 
+[Player 1] O . . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O . O X O 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 10 blacks and 21 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H7
+Opponent played  H7
+Referee Board:
+O X X . O O . . 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O X O 
+O . O O . . O . 
+Next player: BLACK
+10 blacks and 21 whites on board
+
+Before move 127
+Legal Moves:  ['D1', 'G1', 'H1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E7', 'E8', 'F8', 'PASS']
+I am playing  H1
+[Player 0] My current board :
+[Player 0] O X X . O O . X 
+[Player 0] . . O X . X X . 
+[Player 0] O . . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O . O X O 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 11 blacks and 21 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H1
+Opponent played  H1 i.e.  H1
+Referee Board:
+O X X . O O . X 
+. . O X . X X . 
+O . . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O X O 
+O . O O . . O . 
+Next player: WHITE
+11 blacks and 21 whites on board
+
+Before move 128
+Legal Moves:  ['D1', 'G1', 'A2', 'B2', 'E2', 'H2', 'B3', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'E7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  B3
+[Player 1] My current board :
+[Player 1] O X X . O O . X 
+[Player 1] . . O X . X X . 
+[Player 1] O O . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O . O X O 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 11 blacks and 22 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B3
+Opponent played  B3
+Referee Board:
+O X X . O O . X 
+. . O X . X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O X O 
+O . O O . . O . 
+Next player: BLACK
+11 blacks and 22 whites on board
+
+Before move 129
+Legal Moves:  ['D1', 'G1', 'A2', 'B2', 'E2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E7', 'E8', 'F8', 'PASS']
+I am playing  G1
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . . O X . X X . 
+[Player 0] O O . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O . O X O 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 12 blacks and 22 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G1
+Opponent played  G1 i.e.  G1
+Referee Board:
+O X X . O O X X 
+. . O X . X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O . O X O 
+O . O O . . O . 
+Next player: WHITE
+12 blacks and 22 whites on board
+
+Before move 130
+Legal Moves:  ['D1', 'A2', 'B2', 'E2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'E7', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  E7
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . . O X . X X . 
+[Player 1] O O . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 12 blacks and 23 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E7
+Opponent played  E7
+Referee Board:
+O X X . O O X X 
+. . O X . X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . . O . 
+Next player: BLACK
+12 blacks and 23 whites on board
+
+Before move 131
+Legal Moves:  ['D1', 'A2', 'B2', 'E2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E8', 'F8', 'PASS']
+I am playing  E2
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . . O X X X X . 
+[Player 0] O O . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 13 blacks and 23 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E2
+Opponent played  E2 i.e.  E2
+Referee Board:
+O X X . O O X X 
+. . O X X X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . . O . 
+Next player: WHITE
+13 blacks and 23 whites on board
+
+Before move 132
+Legal Moves:  ['A2', 'B2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'B8', 'E8', 'F8', 'H8', 'PASS']
+I am playing  B2
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . . . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 13 blacks and 24 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B2
+Opponent played  B2
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . . O . 
+Next player: BLACK
+13 blacks and 24 whites on board
+
+Before move 133
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'E8', 'F8', 'PASS']
+I am playing  F8
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . . . . 
+[Player 0] O X . . . . O . 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X O . 
+[Player 0] Next player: WHITE
+[Player 0] 14 blacks and 24 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: F8
+Opponent played  F8 i.e.  F8
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . . . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: WHITE
+14 blacks and 24 whites on board
+
+Before move 134
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'F3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'B8', 'E8', 'H8', 'PASS']
+I am playing  F3
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . . 
+[Player 1] O X . . . . O . 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X . . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X O . 
+[Player 1] Next player: BLACK
+[Player 1] 14 blacks and 25 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F3
+Opponent played  F3
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . . 
+O X . . . . O . 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: BLACK
+14 blacks and 25 whites on board
+
+Before move 135
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'H4', 'C5', 'D5', 'E5', 'F5', 'H5', 'F6', 'G6', 'H6', 'H8', 'PASS']
+I am playing  H4
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . . 
+[Player 0] O X . . . . O X 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X . . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X O . 
+[Player 0] Next player: WHITE
+[Player 0] 15 blacks and 25 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H4
+Opponent played  H4 i.e.  H4
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . . 
+O X . . . . O X 
+O O . . . . X . 
+. O X O X . . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: WHITE
+15 blacks and 25 whites on board
+
+Before move 136
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'F6', 'G6', 'H6', 'B8', 'E8', 'H8', 'PASS']
+I am playing  F6
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . . 
+[Player 1] O X . . . . O X 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X O . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X O . 
+[Player 1] Next player: BLACK
+[Player 1] 15 blacks and 26 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F6
+Opponent played  F6
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . . 
+O X . . . . O X 
+O O . . . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: BLACK
+15 blacks and 26 whites on board
+
+Before move 137
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'H3', 'C4', 'D4', 'E4', 'F4', 'C5', 'D5', 'E5', 'F5', 'H5', 'G6', 'H6', 'H8', 'PASS']
+I am playing  H3
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O X . . . . O X 
+[Player 0] O O . . . . X . 
+[Player 0] . O X O X O . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X O . 
+[Player 0] Next player: WHITE
+[Player 0] 16 blacks and 26 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H3
+Opponent played  H3 i.e.  H3
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O X . . . . O X 
+O O . . . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: WHITE
+16 blacks and 26 whites on board
+
+Before move 138
+Legal Moves:  ['D1', 'A2', 'C3', 'D3', 'E3', 'G3', 'C4', 'D4', 'E4', 'F4', 'C5', 'D5', 'E5', 'F5', 'H5', 'A6', 'G6', 'H6', 'B8', 'E8', 'H8', 'PASS']
+I am playing  E4
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O X . . O . O X 
+[Player 1] O O . . . . X . 
+[Player 1] . O X O X O . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X O . 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 27 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E4
+Opponent played  E4
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O X . . O . O X 
+O O . . . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: BLACK
+16 blacks and 27 whites on board
+
+Before move 139
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'C4', 'D4', 'F4', 'C5', 'D5', 'E5', 'F5', 'H5', 'G6', 'H6', 'H8', 'PASS']
+I am playing  D5
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O X . . O . O X 
+[Player 0] O O . X . . X . 
+[Player 0] . O X O X O . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X O . 
+[Player 0] Next player: WHITE
+[Player 0] 17 blacks and 27 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D5
+Opponent played  D5 i.e.  D5
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O X . . O . O X 
+O O . X . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: WHITE
+17 blacks and 27 whites on board
+
+Before move 140
+Legal Moves:  ['D1', 'A2', 'C3', 'D3', 'E3', 'G3', 'C4', 'D4', 'F4', 'C5', 'E5', 'F5', 'H5', 'A6', 'G6', 'H6', 'B8', 'E8', 'H8', 'PASS']
+I am playing  C4
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O . X . . X . 
+[Player 1] . O X O X O . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X O . 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 28 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C4
+Opponent played  C4
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O . X . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: BLACK
+16 blacks and 28 whites on board
+
+Before move 141
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'C5', 'E5', 'F5', 'H5', 'G6', 'H6', 'H8', 'PASS']
+I am playing  C5
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X . . X . 
+[Player 0] . O X O X O . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X O . 
+[Player 0] Next player: WHITE
+[Player 0] 17 blacks and 28 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C5
+Opponent played  C5 i.e.  C5
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . . X . 
+. O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: WHITE
+17 blacks and 28 whites on board
+
+Before move 142
+Legal Moves:  ['D1', 'A2', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E5', 'F5', 'H5', 'A6', 'G6', 'H6', 'B8', 'E8', 'H8', 'PASS']
+I am playing  A6
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X . . X . 
+[Player 1] O O X O X O . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X O . 
+[Player 1] Next player: BLACK
+[Player 1] 17 blacks and 29 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A6
+Opponent played  A6
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . . X . 
+O O X O X O . . 
+O O O O O O X O 
+O . O O . X O . 
+Next player: BLACK
+17 blacks and 29 whites on board
+
+Before move 143
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'E5', 'F5', 'H5', 'G6', 'H6', 'H8', 'PASS']
+I am playing  H8
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X . . X . 
+[Player 0] O O X O X O . . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 18 blacks and 28 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H8
+Opponent played  H8 i.e.  H8
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . . X . 
+O O X O X O . . 
+O O O O O O X O 
+O . O O . X . X 
+Next player: WHITE
+18 blacks and 28 whites on board
+
+Before move 144
+Legal Moves:  ['D1', 'A2', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E5', 'F5', 'H5', 'G6', 'H6', 'B8', 'E8', 'PASS']
+I am playing  F5
+[Player 1] My current board :
+[Player 1] O X X . O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X . O X . 
+[Player 1] O O X O X O . . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 18 blacks and 29 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F5
+Opponent played  F5
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . O X . 
+O O X O X O . . 
+O O O O O O X O 
+O . O O . X . X 
+Next player: BLACK
+18 blacks and 29 whites on board
+
+Before move 145
+Legal Moves:  ['D1', 'A2', 'H2', 'C3', 'D3', 'E3', 'G3', 'D4', 'E5', 'H5', 'G6', 'H6', 'E8', 'G8', 'PASS']
+I am playing  G6
+[Player 0] My current board :
+[Player 0] O X X . O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X . O X . 
+[Player 0] O O X O X O X . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 19 blacks and 29 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G6
+Opponent played  G6 i.e.  G6
+Referee Board:
+O X X . O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . O X . 
+O O X O X O X . 
+O O O O O O X O 
+O . O O . X . X 
+Next player: WHITE
+19 blacks and 29 whites on board
+
+Before move 146
+Legal Moves:  ['D1', 'A2', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E5', 'H5', 'H6', 'B8', 'E8', 'G8', 'PASS']
+I am playing  D1
+[Player 1] My current board :
+[Player 1] O . . O O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X . O X . 
+[Player 1] O O X O X O X . 
+[Player 1] O O O O O O X O 
+[Player 1] O . O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 17 blacks and 30 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D1
+Opponent played  D1
+Referee Board:
+O . . O O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . O X . 
+O O X O X O X . 
+O O O O O O X O 
+O . O O . X . X 
+Next player: BLACK
+17 blacks and 30 whites on board
+
+Before move 147
+Legal Moves:  ['B1', 'H2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'E5', 'H5', 'H6', 'E8', 'G8', 'PASS']
+I am playing  B1
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X . O X . 
+[Player 0] O O X O X O X . 
+[Player 0] O O O O O O X O 
+[Player 0] O . O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 18 blacks and 30 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: B1
+Opponent played  B1 i.e.  B1
+Referee Board:
+O X . O O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . O X . 
+O O X O X O X . 
+O O O O O O X O 
+O . O O . X . X 
+Next player: WHITE
+18 blacks and 30 whites on board
+
+Before move 148
+Legal Moves:  ['A2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E5', 'H5', 'H6', 'B8', 'E8', 'G8', 'PASS']
+I am playing  B8
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X . O X . 
+[Player 1] O O X O X O X . 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 18 blacks and 31 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B8
+Opponent played  B8
+Referee Board:
+O X . O O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X . O X . 
+O O X O X O X . 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+18 blacks and 31 whites on board
+
+Before move 149
+Legal Moves:  ['A2', 'H2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'E5', 'H5', 'H6', 'E8', 'G8', 'PASS']
+I am playing  E5
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] . O O X X X X . 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X X O X . 
+[Player 0] O O X O X O X . 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 19 blacks and 31 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E5
+Opponent played  E5 i.e.  E5
+Referee Board:
+O X . O O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X X O X . 
+O O X O X O X . 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+19 blacks and 31 whites on board
+
+Before move 150
+Legal Moves:  ['A2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'H5', 'H6', 'E8', 'G8', 'PASS']
+I am playing  H6
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] . O O X X X X . 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X X O X . 
+[Player 1] O O X O X O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 19 blacks and 32 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H6
+Opponent played  H6
+Referee Board:
+O X . O O O X X 
+. O O X X X X . 
+O O . . . O . X 
+O . O . O . O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+19 blacks and 32 whites on board
+
+Before move 151
+Legal Moves:  ['A2', 'H2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'H5', 'E8', 'G8', 'PASS']
+I am playing  H2
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] . O O X X X X X 
+[Player 0] O O . . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X X O X . 
+[Player 0] O O X O X O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 20 blacks and 32 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H2
+Opponent played  H2 i.e.  H2
+Referee Board:
+O X . O O O X X 
+. O O X X X X X 
+O O . . . O . X 
+O . O . O . O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+20 blacks and 32 whites on board
+
+Before move 152
+Legal Moves:  ['A2', 'C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E8', 'G8', 'PASS']
+I am playing  A2
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . . . O . X 
+[Player 1] O . O . O . O X 
+[Player 1] O O X X X O X . 
+[Player 1] O O X O X O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 20 blacks and 33 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: A2
+Opponent played  A2
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . . . O . X 
+O . O . O . O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+20 blacks and 33 whites on board
+
+Before move 153
+Legal Moves:  ['C1', 'C3', 'D3', 'E3', 'G3', 'D4', 'H5', 'E8', 'G8', 'PASS']
+I am playing  C3
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O X . . O . X 
+[Player 0] O . O . O . O X 
+[Player 0] O O X X X O X . 
+[Player 0] O O X O X O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 21 blacks and 33 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: C3
+Opponent played  C3 i.e.  C3
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O X . . O . X 
+O . O . O . O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+21 blacks and 33 whites on board
+
+Before move 154
+Legal Moves:  ['C1', 'D3', 'E3', 'G3', 'D4', 'F4', 'B4', 'E8', 'G8', 'PASS']
+I am playing  F4
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O X . . O . X 
+[Player 1] O . O . O O O X 
+[Player 1] O O X X X O X . 
+[Player 1] O O X O X O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 21 blacks and 34 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F4
+Opponent played  F4
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O X . . O . X 
+O . O . O O O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+21 blacks and 34 whites on board
+
+Before move 155
+Legal Moves:  ['C1', 'D3', 'E3', 'G3', 'D4', 'H5', 'E8', 'G8', 'PASS']
+I am playing  PASS
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O X . . O . X 
+[Player 0] O . O . O O O X 
+[Player 0] O O X X X O X . 
+[Player 0] O O X O X O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 21 blacks and 34 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: PASS
+Opponent played  PASS i.e.  PASS
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O X . . O . X 
+O . O . O O O X 
+O O X X X O X . 
+O O X O X O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+21 blacks and 34 whites on board
+
+Before move 156
+Legal Moves:  ['C1', 'D3', 'E3', 'G3', 'D4', 'B4', 'E8', 'G8', 'PASS']
+I am playing  D4
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O X . . O . X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . . . O X . 
+[Player 1] O O . O . O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 35 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D4
+Opponent played  D4
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O X . . O . X 
+O . O O O O O X 
+O O . . . O X . 
+O O . O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+16 blacks and 35 whites on board
+
+Before move 157
+Legal Moves:  ['C1', 'D3', 'E3', 'G3', 'H5', 'C5', 'C6', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  G3
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O X . . O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . . . O X . 
+[Player 0] O O . O . O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 17 blacks and 35 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G3
+Opponent played  G3 i.e.  G3
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O X . . O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O . O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+17 blacks and 35 whites on board
+
+Before move 158
+Legal Moves:  ['C1', 'D3', 'E3', 'B4', 'C5', 'C6', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  D3
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . O . O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . . . O X . 
+[Player 1] O O . O . O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 36 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D3
+Opponent played  D3
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O . O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O . O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+16 blacks and 36 whites on board
+
+Before move 159
+Legal Moves:  ['C1', 'E3', 'H5', 'C5', 'C6', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  PASS
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O . O . O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . . . O X . 
+[Player 0] O O . O . O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 16 blacks and 36 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: PASS
+Opponent played  PASS i.e.  PASS
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O . O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O . O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+16 blacks and 36 whites on board
+
+Before move 160
+Legal Moves:  ['C1', 'E3', 'C3', 'B4', 'C5', 'C6', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  C6
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . O . O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . . . O X . 
+[Player 1] O O O O . O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 16 blacks and 37 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C6
+Opponent played  C6
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O . O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O O O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+16 blacks and 37 whites on board
+
+Before move 161
+Legal Moves:  ['C1', 'E3', 'H5', 'C5', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  E3
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O . O X O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . . . O X . 
+[Player 0] O O O O . O X O 
+[Player 0] O O O O O O X O 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 17 blacks and 37 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E3
+Opponent played  E3 i.e.  E3
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O O O . O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: WHITE
+17 blacks and 37 whites on board
+
+Before move 162
+Legal Moves:  ['C1', 'C3', 'B4', 'H5', 'C5', 'D5', 'E6', 'E5', 'E8', 'G8', 'PASS']
+I am playing  E6
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . O X O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . . . O X . 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O O O X O 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 17 blacks and 38 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E6
+Opponent played  E6
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . . . O X . 
+O O O O O O X O 
+O O O O O O X O 
+O O O O . X . X 
+Next player: BLACK
+17 blacks and 38 whites on board
+
+Before move 163
+Legal Moves:  ['C1', 'H5', 'C5', 'D5', 'E5', 'E8', 'G8', 'PASS']
+I am playing  H5
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O . O X O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . . . O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 18 blacks and 36 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H5
+Opponent played  H5 i.e.  H5
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . . . O X X 
+O O O O O O X . 
+O O O O O O X . 
+O O O O . X . X 
+Next player: WHITE
+18 blacks and 36 whites on board
+
+Before move 164
+Legal Moves:  ['C1', 'C3', 'B4', 'C5', 'D5', 'H6', 'E5', 'H7', 'E8', 'PASS']
+I am playing  E5
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . O X O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . . O O X X 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 18 blacks and 37 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: E5
+Opponent played  E5
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . . O O X X 
+O O O O O O X . 
+O O O O O O X . 
+O O O O . X . X 
+Next player: BLACK
+18 blacks and 37 whites on board
+
+Before move 165
+Legal Moves:  ['C1', 'C5', 'D5', 'H6', 'H7', 'E8', 'G8', 'PASS']
+I am playing  D5
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O . O X O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . X O O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 19 blacks and 37 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: D5
+Opponent played  D5 i.e.  D5
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . X O O X X 
+O O O O O O X . 
+O O O O O O X . 
+O O O O . X . X 
+Next player: WHITE
+19 blacks and 37 whites on board
+
+Before move 166
+Legal Moves:  ['C1', 'C3', 'B4', 'C5', 'H6', 'H7', 'E8', 'PASS']
+I am playing  PASS
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O . O X O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . X O O X X 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 19 blacks and 37 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: PASS
+Opponent played  PASS
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . X O O X X 
+O O O O O O X . 
+O O O O O O X . 
+O O O O . X . X 
+Next player: BLACK
+19 blacks and 37 whites on board
+
+Before move 167
+Legal Moves:  ['C1', 'H6', 'H7', 'E8', 'G8', 'PASS']
+I am playing  H6
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O . O X O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . X O O X X 
+[Player 0] O O O O O O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 20 blacks and 37 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H6
+Opponent played  H6 i.e.  H6
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O . O X O X X 
+O . O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O . X . X 
+Next player: WHITE
+20 blacks and 37 whites on board
+
+Before move 168
+Legal Moves:  ['C1', 'C3', 'B4', 'C5', 'E8', 'PASS']
+I am playing  C3
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O O O X O X X 
+[Player 1] O . O O O O O X 
+[Player 1] O O . X O O X X 
+[Player 1] O O O O O O X X 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 20 blacks and 38 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C3
+Opponent played  C3
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O . O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O . X . X 
+Next player: BLACK
+20 blacks and 38 whites on board
+
+Before move 169
+Legal Moves:  ['C1', 'H7', 'E8', 'G8', 'PASS']
+I am playing  PASS
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O O O X O X X 
+[Player 0] O . O O O O O X 
+[Player 0] O O . X O O X X 
+[Player 0] O O O O O O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O . X . X 
+[Player 0] Next player: WHITE
+[Player 0] 20 blacks and 38 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: PASS
+Opponent played  PASS i.e.  PASS
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O . O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O . X . X 
+Next player: WHITE
+20 blacks and 38 whites on board
+
+Before move 170
+Legal Moves:  ['C1', 'B4', 'C5', 'E8', 'PASS']
+I am playing  B4
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O O O X O X X 
+[Player 1] O O O O O O O X 
+[Player 1] O O . X O O X X 
+[Player 1] O O O O O O X X 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O . X . X 
+[Player 1] Next player: BLACK
+[Player 1] 20 blacks and 39 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: B4
+Opponent played  B4
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O O O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O . X . X 
+Next player: BLACK
+20 blacks and 39 whites on board
+
+Before move 171
+Legal Moves:  ['C1', 'H7', 'E8', 'G8', 'PASS']
+I am playing  E8
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O O O X O X X 
+[Player 0] O O O O O O O X 
+[Player 0] O O . X O O X X 
+[Player 0] O O O O O O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O X X . X 
+[Player 0] Next player: WHITE
+[Player 0] 21 blacks and 39 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: E8
+Opponent played  E8 i.e.  E8
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O O O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O X X . X 
+Next player: WHITE
+21 blacks and 39 whites on board
+
+Before move 172
+Legal Moves:  ['C1', 'C5', 'G8', 'PASS']
+I am playing  PASS
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O X X X X X 
+[Player 1] O O O O X O X X 
+[Player 1] O O O O O O O X 
+[Player 1] O O . X O O X X 
+[Player 1] O O O O O O X X 
+[Player 1] O O O O O O X . 
+[Player 1] O O O O X X . X 
+[Player 1] Next player: BLACK
+[Player 1] 21 blacks and 39 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: PASS
+Opponent played  PASS
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O O O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O X X . X 
+Next player: BLACK
+21 blacks and 39 whites on board
+
+Before move 173
+Legal Moves:  ['C1', 'H7', 'G8', 'PASS']
+I am playing  G8
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O X X X X X 
+[Player 0] O O O O X O X X 
+[Player 0] O O O O O O O X 
+[Player 0] O O . X O O X X 
+[Player 0] O O O O O O X X 
+[Player 0] O O O O O O X . 
+[Player 0] O O O O X X X X 
+[Player 0] Next player: WHITE
+[Player 0] 22 blacks and 39 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G8
+Opponent played  G8 i.e.  G8
+Referee Board:
+O X . O O O X X 
+O O O X X X X X 
+O O O O X O X X 
+O O O O O O O X 
+O O . X O O X X 
+O O O O O O X X 
+O O O O O O X . 
+O O O O X X X X 
+Next player: WHITE
+22 blacks and 39 whites on board
+
+Before move 174
+Legal Moves:  ['C1', 'C5', 'H7', 'PASS']
+I am playing  H7
+[Player 1] My current board :
+[Player 1] O X . O O O . . 
+[Player 1] O O O . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O O O O O O O . 
+[Player 1] O O . X O O . . 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O . O 
+[Player 1] O O O O . . . . 
+[Player 1] Next player: BLACK
+[Player 1] 2 blacks and 40 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H7
+Opponent played  H7
+Referee Board:
+O X . O O O . . 
+O O O . . . . . 
+O O O O . O . . 
+O O O O O O O . 
+O O . X O O . . 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . . . 
+Next player: BLACK
+2 blacks and 40 whites on board
+
+Before move 175
+Legal Moves:  ['G1', 'H1', 'D2', 'E2', 'F2', 'G2', 'H2', 'E3', 'G3', 'H3', 'H4', 'G5', 'H5', 'G6', 'H6', 'G7', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  H1
+[Player 0] My current board :
+[Player 0] O X . O O O . X 
+[Player 0] O O O . . . . . 
+[Player 0] O O O O . O . . 
+[Player 0] O O O O O O O . 
+[Player 0] O O . X O O . . 
+[Player 0] O O O O O O . . 
+[Player 0] O O O O O O . O 
+[Player 0] O O O O . . . . 
+[Player 0] Next player: WHITE
+[Player 0] 3 blacks and 40 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H1
+Opponent played  H1 i.e.  H1
+Referee Board:
+O X . O O O . X 
+O O O . . . . . 
+O O O O . O . . 
+O O O O O O O . 
+O O . X O O . . 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . . . 
+Next player: WHITE
+3 blacks and 40 whites on board
+
+Before move 176
+Legal Moves:  ['C1', 'G1', 'D2', 'E2', 'F2', 'G2', 'H2', 'E3', 'G3', 'H3', 'H4', 'C5', 'G5', 'H5', 'G6', 'H6', 'G7', 'E8', 'F8', 'G8', 'H8', 'PASS']
+I am playing  G8
+[Player 1] My current board :
+[Player 1] O X . O O O . X 
+[Player 1] O O O . . . . . 
+[Player 1] O O O O . O . . 
+[Player 1] O O O O O O O . 
+[Player 1] O O . X O O . . 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O . O 
+[Player 1] O O O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 3 blacks and 41 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G8
+Opponent played  G8
+Referee Board:
+O X . O O O . X 
+O O O . . . . . 
+O O O O . O . . 
+O O O O O O O . 
+O O . X O O . . 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: BLACK
+3 blacks and 41 whites on board
+
+Before move 177
+Legal Moves:  ['G1', 'D2', 'E2', 'F2', 'G2', 'H2', 'E3', 'G3', 'H3', 'H4', 'G5', 'H5', 'G6', 'H6', 'G7', 'E8', 'F8', 'PASS']
+I am playing  G3
+[Player 0] My current board :
+[Player 0] O X . O O O . X 
+[Player 0] O O O . . . . . 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O . X O O . . 
+[Player 0] O O O O O O . . 
+[Player 0] O O O O O O . O 
+[Player 0] O O O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 4 blacks and 41 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G3
+Opponent played  G3 i.e.  G3
+Referee Board:
+O X . O O O . X 
+O O O . . . . . 
+O O O O . O X . 
+O O O O O O O . 
+O O . X O O . . 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: WHITE
+4 blacks and 41 whites on board
+
+Before move 178
+Legal Moves:  ['C1', 'G1', 'D2', 'E2', 'F2', 'G2', 'H2', 'E3', 'H3', 'H4', 'C5', 'G5', 'H5', 'G6', 'H6', 'G7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  D2
+[Player 1] My current board :
+[Player 1] O X . O O O . X 
+[Player 1] O O O O . . . . 
+[Player 1] O O O O . O X . 
+[Player 1] O O O O O O O . 
+[Player 1] O O . X O O . . 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O . O 
+[Player 1] O O O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 4 blacks and 42 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: D2
+Opponent played  D2
+Referee Board:
+O X . O O O . X 
+O O O O . . . . 
+O O O O . O X . 
+O O O O O O O . 
+O O . X O O . . 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: BLACK
+4 blacks and 42 whites on board
+
+Before move 179
+Legal Moves:  ['G1', 'E2', 'F2', 'G2', 'H2', 'E3', 'H3', 'H4', 'G5', 'H5', 'G6', 'H6', 'G7', 'E8', 'F8', 'PASS']
+I am playing  H5
+[Player 0] My current board :
+[Player 0] O X . O O O . X 
+[Player 0] O O O O . . . . 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O . X O O . X 
+[Player 0] O O O O O O . . 
+[Player 0] O O O O O O . O 
+[Player 0] O O O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 5 blacks and 42 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H5
+Opponent played  H5 i.e.  H5
+Referee Board:
+O X . O O O . X 
+O O O O . . . . 
+O O O O . O X . 
+O O O O O O O . 
+O O . X O O . X 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: WHITE
+5 blacks and 42 whites on board
+
+Before move 180
+Legal Moves:  ['C1', 'G1', 'E2', 'F2', 'G2', 'H2', 'E3', 'H3', 'H4', 'C5', 'G5', 'G6', 'H6', 'G7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  G2
+[Player 1] My current board :
+[Player 1] O X . O O O . X 
+[Player 1] O O O O . . O . 
+[Player 1] O O O O . O X . 
+[Player 1] O O O O O O O . 
+[Player 1] O O . X O O . X 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O . O 
+[Player 1] O O O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 5 blacks and 43 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G2
+Opponent played  G2
+Referee Board:
+O X . O O O . X 
+O O O O . . O . 
+O O O O . O X . 
+O O O O O O O . 
+O O . X O O . X 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: BLACK
+5 blacks and 43 whites on board
+
+Before move 181
+Legal Moves:  ['G1', 'E2', 'F2', 'H2', 'E3', 'H3', 'H4', 'G5', 'G6', 'H6', 'G7', 'E8', 'F8', 'PASS']
+I am playing  H2
+[Player 0] My current board :
+[Player 0] O X . O O O . X 
+[Player 0] O O O O . . O X 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O . X O O . X 
+[Player 0] O O O O O O . . 
+[Player 0] O O O O O O . O 
+[Player 0] O O O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 6 blacks and 43 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H2
+Opponent played  H2 i.e.  H2
+Referee Board:
+O X . O O O . X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O . X O O . X 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: WHITE
+6 blacks and 43 whites on board
+
+Before move 182
+Legal Moves:  ['C1', 'G1', 'E2', 'F2', 'E3', 'H3', 'H4', 'C5', 'G5', 'G6', 'H6', 'G7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  C5
+[Player 1] My current board :
+[Player 1] O X . O O O . X 
+[Player 1] O O O O . . O X 
+[Player 1] O O O O . O X . 
+[Player 1] O O O O O O O . 
+[Player 1] O O O . O O . X 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O . O 
+[Player 1] O O O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 5 blacks and 44 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: C5
+Opponent played  C5
+Referee Board:
+O X . O O O . X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: BLACK
+5 blacks and 44 whites on board
+
+Before move 183
+Legal Moves:  ['G1', 'E2', 'F2', 'E3', 'H3', 'H4', 'G5', 'G6', 'H6', 'G7', 'E8', 'F8', 'PASS']
+I am playing  G1
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O O . . O X 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O O . O O . X 
+[Player 0] O O O O O O . . 
+[Player 0] O O O O O O . O 
+[Player 0] O O O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 6 blacks and 44 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: G1
+Opponent played  G1 i.e.  G1
+Referee Board:
+O X . O O O X X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . . 
+O O O O O O . O 
+O O O O . . O . 
+Next player: WHITE
+6 blacks and 44 whites on board
+
+Before move 184
+Legal Moves:  ['C1', 'E2', 'F2', 'E3', 'H3', 'H4', 'D5', 'G5', 'G6', 'H6', 'G7', 'E8', 'F8', 'H8', 'PASS']
+I am playing  G7
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O O . . O X 
+[Player 1] O O O O . O X . 
+[Player 1] O O O O O O O . 
+[Player 1] O O O . O O . X 
+[Player 1] O O O O O O . . 
+[Player 1] O O O O O O O O 
+[Player 1] O O O O . . O . 
+[Player 1] Next player: BLACK
+[Player 1] 6 blacks and 45 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: G7
+Opponent played  G7
+Referee Board:
+O X . O O O X X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . . 
+O O O O O O O O 
+O O O O . . O . 
+Next player: BLACK
+6 blacks and 45 whites on board
+
+Before move 185
+Legal Moves:  ['E2', 'F2', 'E3', 'H3', 'H4', 'G5', 'G6', 'H6', 'E8', 'F8', 'PASS']
+I am playing  H6
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O O . . O X 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O O . O O . X 
+[Player 0] O O O O O O . X 
+[Player 0] O O O O O O O O 
+[Player 0] O O O O . . O . 
+[Player 0] Next player: WHITE
+[Player 0] 7 blacks and 45 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: H6
+Opponent played  H6 i.e.  H6
+Referee Board:
+O X . O O O X X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . . O . 
+Next player: WHITE
+7 blacks and 45 whites on board
+
+Before move 186
+Legal Moves:  ['C1', 'E2', 'F2', 'E3', 'H3', 'H4', 'D5', 'G5', 'G6', 'E8', 'F8', 'H8', 'PASS']
+I am playing  F8
+[Player 1] My current board :
+[Player 1] O X . O O O X X 
+[Player 1] O O O O . . O X 
+[Player 1] O O O O . O X . 
+[Player 1] O O O O O O O . 
+[Player 1] O O O . O O . X 
+[Player 1] O O O O O O . X 
+[Player 1] O O O O O O O O 
+[Player 1] O O O O . O O . 
+[Player 1] Next player: BLACK
+[Player 1] 7 blacks and 46 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: F8
+Opponent played  F8
+Referee Board:
+O X . O O O X X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . O O . 
+Next player: BLACK
+7 blacks and 46 whites on board
+
+Before move 187
+Legal Moves:  ['E2', 'F2', 'E3', 'H3', 'H4', 'G5', 'G6', 'PASS']
+I am playing  PASS
+[Player 0] My current board :
+[Player 0] O X . O O O X X 
+[Player 0] O O O O . . O X 
+[Player 0] O O O O . O X . 
+[Player 0] O O O O O O O . 
+[Player 0] O O O . O O . X 
+[Player 0] O O O O O O . X 
+[Player 0] O O O O O O O O 
+[Player 0] O O O O . O O . 
+[Player 0] Next player: WHITE
+[Player 0] 7 blacks and 46 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: PASS
+Opponent played  PASS i.e.  PASS
+Referee Board:
+O X . O O O X X 
+O O O O . . O X 
+O O O O . O X . 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . O O . 
+Next player: WHITE
+7 blacks and 46 whites on board
+
+Before move 188
+Legal Moves:  ['C1', 'E2', 'F2', 'E3', 'H3', 'H4', 'D5', 'G5', 'G6', 'E8', 'H8', 'PASS']
+I am playing  H3
+[Player 1] My current board :
+[Player 1] O X . O O O . . 
+[Player 1] O O O O . . O . 
+[Player 1] O O O O . O . O 
+[Player 1] O O O O O O O . 
+[Player 1] O O O . O O . X 
+[Player 1] O O O O O O . X 
+[Player 1] O O O O O O O O 
+[Player 1] O O O O . O O . 
+[Player 1] Next player: BLACK
+[Player 1] 3 blacks and 47 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: H3
+Opponent played  H3
+Referee Board:
+O X . O O O . . 
+O O O O . . O . 
+O O O O . O . O 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . O O . 
+Next player: BLACK
+3 blacks and 47 whites on board
+
+Before move 189
+Legal Moves:  ['G1', 'H1', 'E2', 'F2', 'H2', 'E3', 'H4', 'G5', 'G6', 'PASS']
+I am playing  PASS
+[Player 0] My current board :
+[Player 0] O X . O O O . . 
+[Player 0] O O O O . . O . 
+[Player 0] O O O O . O . O 
+[Player 0] O O O O O O O . 
+[Player 0] O O O . O O . X 
+[Player 0] O O O O O O . X 
+[Player 0] O O O O O O O O 
+[Player 0] O O O O . O O . 
+[Player 0] Next player: WHITE
+[Player 0] 3 blacks and 47 whites on board
+[Player 0] 
+
+Player  1 Random Player plays: PASS
+Opponent played  PASS i.e.  PASS
+Referee Board:
+O X . O O O . . 
+O O O O . . O . 
+O O O O . O . O 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . O O . 
+Next player: WHITE
+3 blacks and 47 whites on board
+
+Before move 190
+Legal Moves:  ['C1', 'G1', 'H1', 'E2', 'F2', 'H2', 'E3', 'G3', 'H4', 'D5', 'G5', 'G6', 'E8', 'H8', 'PASS']
+I am playing  PASS
+[Player 1] My current board :
+[Player 1] O X . O O O . . 
+[Player 1] O O O O . . O . 
+[Player 1] O O O O . O . O 
+[Player 1] O O O O O O O . 
+[Player 1] O O O . O O . X 
+[Player 1] O O O O O O . X 
+[Player 1] O O O O O O O O 
+[Player 1] O O O O . O O . 
+[Player 1] Next player: BLACK
+[Player 1] 3 blacks and 47 whites on board
+[Player 1] 
+
+Player  2 Random Player plays: PASS
+Opponent played  PASS
+The game is over
+O X . O O O . . 
+O O O O . . O . 
+O O O O . O . O 
+O O O O O O O . 
+O O O . O O . X 
+O O O O O O . X 
+O O O O O O O O 
+O O O O . O O . 
+Next player: BLACK
+3 blacks and 47 whites on board
+
+Time: [0.09490609169006348, 0.09539484977722168]
+GO Score: W+54
+Winner: WHITE

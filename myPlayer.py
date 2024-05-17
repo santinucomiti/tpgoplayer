@@ -7,8 +7,9 @@ Right now, this class contains the copy of the randomPlayer. But you have to cha
 
 import time
 import Goban 
-from random import choice
+from random import *
 from playerInterface import *
+from opening import *
 
 class myPlayer(PlayerInterface):
     ''' Example of a random player for the go. The only tricky part is to be able to handle
@@ -16,10 +17,20 @@ class myPlayer(PlayerInterface):
     to translate them to the GO-move strings "A1", ..., "J8", "PASS". Easy!
 
     '''
+    
+    _FUSEKI_DEPTH = 10
+    _BEST_OPENING_MOVE = [18, 19, 20, 21, 26, 34, 42, 43, 44, 45, 29, 37]
+    _PLACES = {
+        10: 
+    } 
+
+    ##########################################################
+    ##########################################################
 
     def __init__(self):
         self._board = Goban.Board()
         self._mycolor = None
+        self._depth = 0
 
     def getPlayerName(self):
         return "Random Player"
@@ -29,9 +40,15 @@ class myPlayer(PlayerInterface):
             print("Referee told me to play but the game is over!")
             return "PASS" 
         
-        moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
-        move = choice(moves) 
+        # Opening move if depth lower than _FUSEKI_DEPTH
+        if (self._depth < myPlayer._FUSEKI_DEPTH):
+            move = self._getOpeningMove()
+        else:
+            moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
+            move = choice(moves) 
+
         self._board.push(move)
+        self._depth += 1
 
         # New here: allows to consider internal representations of moves
         print("I am playing ", self._board.move_to_str(move))
@@ -54,6 +71,19 @@ class myPlayer(PlayerInterface):
             print("I won!!!")
         else:
             print("I lost :(!!")
+
+    ''' Internal functions only'''
+
+    def _getOpeningMove(self):
+
+        moves = self._board.legal_moves()
+    
+        best_moves = []
+        for best_move in self._BEST_OPENING_MOVE:
+            if best_move in moves:
+                best_moves.append(best_move) 
+
+        return choice(best_moves) if best_moves else choice(moves)
 
 
 
