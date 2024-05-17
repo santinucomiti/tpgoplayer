@@ -34,6 +34,8 @@ class myPlayer(PlayerInterface):
     _FUSEKI_DEPTH = 10
     _BEST_OPENING_MOVE = [18, 19, 20, 21, 26, 34, 42, 43, 44, 45, 29, 37]
     _PLACES_HEAT = {index: heat_level for heat_level, indices in PLACES_HEAT_INVERSE.items() for index in indices}
+    _MAX_RUNNING_TIME = 30 * 60 # 30 minutes max
+    _WARNING_LEFT_TIME = 1 * 60 # 1 minute restante est dangereux  
 
     ##########################################################
     ##########################################################
@@ -41,7 +43,8 @@ class myPlayer(PlayerInterface):
     def __init__(self):
         self._board = Goban.Board()
         self._mycolor = None
-        self._turn = 0
+        self._turn = 0  
+        self._leftRunningTime = myPlayer._MAX_RUNNING_TIME # in ms
 #
 #    def __heuristic(self,color_ami,board):
 #        # Recréer l'instance du modèle
@@ -68,27 +71,38 @@ class myPlayer(PlayerInterface):
         return "Bruno Superette (alpha beta player)"
 
     def getPlayerMove(self):
-        self._turn +=1
+
+        start_time = time.time()
+
         if self._board.is_game_over():
             print("Referee told me to play but the game is over!")
             return "PASS" 
         
         # Opening move if depth lower than _FUSEKI_DEPTH
-        if (self._turn < myPlayer._FUSEKI_DEPTH):
-            move = self._getOpeningMove()
-        else:
+        if (self._leftRunningTime < myPlayer._WARNING_LEFT_TIME):
+            # TODO: Mettre un choix rapide
             moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
             move = choice(moves) 
+        else: 
+            if (self._turn < myPlayer._FUSEKI_DEPTH):
+                move = self._getOpeningMove()
+            else:
+                moves = self._board.legal_moves() # Dont use weak_legal_moves() here!
+                move = choice(moves) 
 
         self._board.push(move)
 
-        myPlayer.heatMap(self._board, self._mycolor)
+        self._turn +=1
 
         # New here: allows to consider internal representations of moves
         print("I am playing ", self._board.move_to_str(move))
         print("My current board :")
         self._board.prettyPrint()
         # move is an internal representation. To communicate with the interface I need to change if to a string
+
+        end_time = time.time()
+        self._leftRunningTime += end_time - start_time
+
         return Goban.Board.flat_to_name(move) 
 
     def playOpponentMove(self, move):
